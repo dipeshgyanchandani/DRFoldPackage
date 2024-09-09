@@ -1,0 +1,1394 @@
+/nfs/amino-home/liyangum/eRNA/programs/PETfold/bin/PETfold -f /nfs/amino-home/liyangum/DRfold/www/DRfold/DRfold/test/seq.fasta -r /nfs/amino-home/liyangum/DRfold/www/DRfold/DRfold/test/DRfold_out/seq_ss_pet.petfoldrr >/nfs/amino-home/liyangum/DRfold/www/DRfold/DRfold/test/DRfold_out/seq_ss_pet.petfold
+/nfs/amino-home/liyangum/eRNA/programs/ViennaRNA-2.4.18-bin/bin/RNAfold --outfile=seq_ss_vie.ViennaRNAss -p  --noPS /nfs/amino-home/liyangum/DRfold/www/DRfold/DRfold/test/DRfold_out/seq_ss_vie.tmp.fasta
+fitting cubic distance
+fitting cubic distance
+fitting cubic distance
+fitting cubic
+fitting cubic
+fitting cubic
+At iterate 0    f= -9616318.558859318   max Grad= 52176.86851747286
+At iterate 50    f= -10449071.389538763   max Grad= 431566.8764921442
+At iterate 100    f= -10530962.608348453   max Grad= 5395012.36165945
+At iterate 150    f= -10557698.94531244   max Grad= 2342708.951706323
+Abort if function value is unlikely to improve. Inaccurate G! -9823398.645330038 -10557102.932150602
+Abort if function value is unlikely to improve. Inaccurate G! -10514324.227992762 -10557102.932150602
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -9946351.479839548 -10557698.94531244
+Abort if function value is unlikely to improve. Inaccurate G! -10514324.227992762 -10557698.94531244
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -9946351.479839548 -10557698.94531244
+Abort if function value is unlikely to improve. Inaccurate G! -10514324.227992762 -10557698.94531244
+Line search failed even after resetting Hessian;
+-10557698.94531244 1e+16
+At iterate 0    f= -9839489.628037741   max Grad= 43704.75076282907
+At iterate 50    f= -10367644.674664276   max Grad= 2020065.5849373664
+At iterate 100    f= -10475001.206518939   max Grad= 2306990.8672617003
+At iterate 150    f= -10520417.622478113   max Grad= 2818988.069142597
+Abort if function value is unlikely to improve. Inaccurate G! -9895747.464696843 -10547254.55845326
+Abort if function value is unlikely to improve. Inaccurate G! -10412014.86914089 -10547254.55845326
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -8208980.311513617 -10548162.17302508
+Abort if function value is unlikely to improve. Inaccurate G! -10412014.86914089 -10548162.17302508
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -8208980.311513617 -10548162.17302508
+Abort if function value is unlikely to improve. Inaccurate G! -10412014.86914089 -10548162.17302508
+Line search failed even after resetting Hessian;
+At iterate 0    f= -9755901.351246178   max Grad= 50052.62305594143
+At iterate 50    f= -10303480.18850659   max Grad= 540192.9274332236
+At iterate 100    f= -10425040.724398043   max Grad= 1094233.2348548376
+At iterate 150    f= -10480930.550288767   max Grad= 4183636.3315705582
+At iterate 200    f= -10512301.149799855   max Grad= 13823409.504763529
+At iterate 250    f= -10528076.851225212   max Grad= 2459067.8434604816
+At iterate 300    f= -10538213.388090778   max Grad= 10652048.412082514
+At iterate 350    f= -10542168.88700804   max Grad= 8385350.887761489
+Abort if function value is unlikely to improve. Inaccurate G! -10541990.103862422 -10542168.88700804
+Abort if function value is unlikely to improve. Inaccurate G! -9805805.901862284 -10542168.88700804
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -7496961.769698393 -10542284.62104747
+Abort if function value is unlikely to improve. Inaccurate G! -9805805.901862284 -10542284.62104747
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -7496961.769698393 -10542284.62104747
+Abort if function value is unlikely to improve. Inaccurate G! -9805805.901862284 -10542284.62104747
+Line search failed even after resetting Hessian;
+At iterate 0    f= -9818465.386978472   max Grad= 42887.71318704461
+At iterate 50    f= -10476747.93523553   max Grad= 989766.8357900886
+At iterate 100    f= -10542521.101096032   max Grad= 827988.7546263719
+At iterate 150    f= -10563429.024452748   max Grad= 960296.0169453165
+At iterate 200    f= -10576212.562483765   max Grad= 818877.0803331193
+At iterate 250    f= -10583014.02086126   max Grad= 8737829.355391085
+At iterate 300    f= -10586183.805628007   max Grad= 4742092.37688105
+At iterate 350    f= -10588781.777847756   max Grad= 5377999.401986871
+Abort if function value is unlikely to improve. Inaccurate G! -10588739.751409166 -10588739.982431645
+Abort if function value is unlikely to improve. Inaccurate G! -10196595.892317157 -10588739.982431645
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -9585816.606615676 -10588739.982431645
+Abort if function value is unlikely to improve. Inaccurate G! -10196595.892317157 -10588739.982431645
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -9585816.606615676 -10588739.982431645
+Abort if function value is unlikely to improve. Inaccurate G! -10196595.892317157 -10588739.982431645
+Line search failed even after resetting Hessian;
+-10588739.982431645 -10557698.94531244
+At iterate 0    f= -9638779.45077844   max Grad= 50166.24552256291
+At iterate 50    f= -10219235.096042728   max Grad= 5306497.732474368
+At iterate 100    f= -10377082.629419588   max Grad= 1984167.1918446256
+At iterate 150    f= -10475469.11253741   max Grad= 738664.4330158602
+At iterate 200    f= -10521832.59418615   max Grad= 12255943.386991128
+At iterate 250    f= -10544908.364106111   max Grad= 258386529.8697278
+At iterate 300    f= -10551437.21537197   max Grad= 558229508.5260367
+Abort if function value is unlikely to improve. Inaccurate G! -10551334.979807882 -10551374.14688207
+Abort if function value is unlikely to improve. Inaccurate G! -9502247.73955186 -10551374.14688207
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -8139438.854120275 -10551403.872325093
+Abort if function value is unlikely to improve. Inaccurate G! -9502247.73955186 -10551403.872325093
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -8139438.854120275 -10551403.872325093
+Abort if function value is unlikely to improve. Inaccurate G! -9502247.73955186 -10551403.872325093
+Line search failed even after resetting Hessian;
+At iterate 0    f= -9491787.824598903   max Grad= 60836.909639937636
+At iterate 50    f= -10294519.048863778   max Grad= 917766.7090279934
+At iterate 100    f= -10419100.240628958   max Grad= 25676489.4605117
+At iterate 150    f= -10490624.661119891   max Grad= 15510074.684773602
+At iterate 200    f= -10516263.02617709   max Grad= 15557110.237834647
+At iterate 250    f= -10540843.98686694   max Grad= 32017894.335829113
+At iterate 300    f= -10552882.507271634   max Grad= 16259356.084450666
+Abort if function value is unlikely to improve. Inaccurate G! -10553026.807696464 -10553565.484421773
+Abort if function value is unlikely to improve. Inaccurate G! -9477745.937846543 -10553565.484421773
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -7529322.637687048 -10553679.062225984
+Abort if function value is unlikely to improve. Inaccurate G! -9477745.937846543 -10553679.062225984
+Line search failed even after resetting Hessian;
+Abort if function value is unlikely to improve. Inaccurate G! -7529322.637687048 -10553679.062225984
+Abort if function value is unlikely to improve. Inaccurate G! -9477745.937846543 -10553679.062225984
+Line search failed even after resetting Hessian;
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         1617     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  3.69882D+05    |proj g|=  1.39857D+06
+
+At iterate   10    f=  1.58058D+03    |proj g|=  9.87738D+02
+
+At iterate   20    f=  6.92894D+02    |proj g|=  1.37547D+02
+
+At iterate   30    f=  6.77670D+02    |proj g|=  1.78677D+01
+
+At iterate   40    f=  6.77068D+02    |proj g|=  6.06787D+01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 1617     41    194      2     0     0   6.068D+01   6.771D+02
+  F =   677.06759923343691     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         1617     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.31838D+06    |proj g|=  1.23263D+07
+
+At iterate   10    f=  2.63358D+03    |proj g|=  7.28147D+02
+
+At iterate   20    f=  8.37929D+02    |proj g|=  8.07669D+02
+
+At iterate   30    f=  7.26821D+02    |proj g|=  1.57334D+01
+
+At iterate   40    f=  7.21419D+02    |proj g|=  2.75331D+01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 1617     44    106      1     0     0   5.354D+01   7.203D+02
+  F =   720.25279354180748     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         1617     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.73050D+06    |proj g|=  1.63068D+07
+
+At iterate   10    f=  2.87971D+03    |proj g|=  5.00899D+02
+
+At iterate   20    f=  8.06954D+02    |proj g|=  7.96797D+01
+
+At iterate   30    f=  7.64774D+02    |proj g|=  9.66869D+01
+
+At iterate   40    f=  7.62116D+02    |proj g|=  3.03185D+01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 1617     47    189      4     0     0   1.604D+01   7.618D+02
+  F =   761.84599395929001     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         1617     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.36427D+06    |proj g|=  2.98798D+07
+
+At iterate   10    f=  3.09829D+03    |proj g|=  1.42583D+03
+
+At iterate   20    f= -1.83175D+01    |proj g|=  8.11475D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 1617     25    127      3     0     0   5.659D+00  -1.898D+01
+  F =  -18.981468944971830     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         1617     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  2.50098D+05    |proj g|=  1.34804D+06
+
+At iterate   10    f=  5.27192D+02    |proj g|=  2.25600D+02
+
+At iterate   20    f= -2.16485D+01    |proj g|=  3.79496D+00
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 1617     24    134      3     0     0   3.063D+00  -2.181D+01
+  F =  -21.809195749689810     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         1617     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.87466D+06    |proj g|=  1.95006D+07
+
+At iterate   10    f=  2.48027D+04    |proj g|=  1.05382D+05
+
+At iterate   20    f=  8.15314D+03    |proj g|=  6.64930D+03
+
+At iterate   30    f=  3.62070D+03    |proj g|=  7.38579D+02
+
+At iterate   40    f=  3.01323D+03    |proj g|=  8.16671D+02
+
+At iterate   50    f=  2.97326D+03    |proj g|=  3.64998D+01
+
+At iterate   60    f=  2.97188D+03    |proj g|=  5.83336D+01
+
+At iterate   70    f=  2.96986D+03    |proj g|=  3.01558D+01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 1617     73    232      3     0     0   3.010D+01   2.970D+03
+  F =   2969.8537319497591     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+  G1 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G1  with 15 missing atoms
+  C2 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C2  with 12 missing atoms
+  A3 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A3  with 14 missing atoms
+  U4 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U4  with 12 missing atoms
+  C5 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C5  with 12 missing atoms
+  C6 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C6  with 12 missing atoms
+  G7 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G7  with 15 missing atoms
+  U8 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U8  with 12 missing atoms
+  A9 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A9  with 14 missing atoms
+  G10 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G10  with 15 missing atoms
+  C11 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C11  with 12 missing atoms
+  U12 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U12  with 12 missing atoms
+  C13 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C13  with 12 missing atoms
+  A14 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A14  with 14 missing atoms
+  G15 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G15  with 15 missing atoms
+  C16 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C16  with 12 missing atoms
+  U17 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U17  with 12 missing atoms
+  G18 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G18  with 15 missing atoms
+  G19 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G19  with 15 missing atoms
+  A20 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A20  with 14 missing atoms
+  U21 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U21  with 12 missing atoms
+  A22 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A22  with 14 missing atoms
+  G23 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G23  with 15 missing atoms
+  A24 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A24  with 14 missing atoms
+  G25 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G25  with 15 missing atoms
+  U26 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U26  with 12 missing atoms
+  A27 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A27  with 14 missing atoms
+  C28 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C28  with 12 missing atoms
+  U29 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U29  with 12 missing atoms
+  C30 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C30  with 12 missing atoms
+  G31 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G31  with 15 missing atoms
+  G32 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G32  with 15 missing atoms
+  C33 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C33  with 12 missing atoms
+  U34 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U34  with 12 missing atoms
+  A35 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A35  with 14 missing atoms
+  C36 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C36  with 12 missing atoms
+  G37 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G37  with 15 missing atoms
+  A38 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A38  with 14 missing atoms
+  A39 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A39  with 14 missing atoms
+  C40 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C40  with 12 missing atoms
+  C41 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C41  with 12 missing atoms
+  G42 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G42  with 15 missing atoms
+  A43 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A43  with 14 missing atoms
+  G44 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G44  with 15 missing atoms
+  C45 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C45  with 12 missing atoms
+  G46 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G46  with 15 missing atoms
+  G47 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G47  with 15 missing atoms
+  U48 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U48  with 12 missing atoms
+  C49 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C49  with 12 missing atoms
+  G50 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G50  with 15 missing atoms
+  G51 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G51  with 15 missing atoms
+  A52 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A52  with 14 missing atoms
+  G53 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G53  with 15 missing atoms
+  G54 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G54  with 15 missing atoms
+  U55 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U55  with 12 missing atoms
+  U56 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U56  with 12 missing atoms
+  C57 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C57  with 12 missing atoms
+  G58 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G58  with 15 missing atoms
+  A59 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A59  with 14 missing atoms
+  A60 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A60  with 14 missing atoms
+  U61 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U61  with 12 missing atoms
+  C62 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C62  with 12 missing atoms
+  C63 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C63  with 12 missing atoms
+  U64 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U64  with 12 missing atoms
+  C65 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C65  with 12 missing atoms
+  C66 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C66  with 12 missing atoms
+  C67 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C67  with 12 missing atoms
+  G68 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G68  with 15 missing atoms
+  G69 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G69  with 15 missing atoms
+  A70 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A70  with 14 missing atoms
+  U71 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U71  with 12 missing atoms
+  G72 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G72  with 15 missing atoms
+  C73 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C73  with 12 missing atoms
+  A74 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A74  with 14 missing atoms
+  C75 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C75  with 12 missing atoms
+  C76 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C76  with 12 missing atoms
+  A77 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A77  with 14 missing atoms
+  G1 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G1  with 15 missing atoms
+  C2 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C2  with 12 missing atoms
+  A3 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A3  with 14 missing atoms
+  U4 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U4  with 12 missing atoms
+  C5 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C5  with 12 missing atoms
+  C6 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C6  with 12 missing atoms
+  G7 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G7  with 15 missing atoms
+  U8 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U8  with 12 missing atoms
+  A9 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A9  with 14 missing atoms
+  G10 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G10  with 15 missing atoms
+  C11 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C11  with 12 missing atoms
+  U12 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U12  with 12 missing atoms
+  C13 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C13  with 12 missing atoms
+  A14 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A14  with 14 missing atoms
+  G15 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G15  with 15 missing atoms
+  C16 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C16  with 12 missing atoms
+  U17 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U17  with 12 missing atoms
+  G18 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G18  with 15 missing atoms
+  G19 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G19  with 15 missing atoms
+  A20 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A20  with 14 missing atoms
+  U21 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U21  with 12 missing atoms
+  A22 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A22  with 14 missing atoms
+  G23 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G23  with 15 missing atoms
+  A24 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A24  with 14 missing atoms
+  G25 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G25  with 15 missing atoms
+  U26 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U26  with 12 missing atoms
+  A27 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A27  with 14 missing atoms
+  C28 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C28  with 12 missing atoms
+  U29 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U29  with 12 missing atoms
+  C30 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C30  with 12 missing atoms
+  G31 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G31  with 15 missing atoms
+  G32 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G32  with 15 missing atoms
+  C33 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C33  with 12 missing atoms
+  U34 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U34  with 12 missing atoms
+  A35 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A35  with 14 missing atoms
+  C36 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C36  with 12 missing atoms
+  G37 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G37  with 15 missing atoms
+  A38 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A38  with 14 missing atoms
+  A39 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A39  with 14 missing atoms
+  C40 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C40  with 12 missing atoms
+  C41 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C41  with 12 missing atoms
+  G42 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G42  with 15 missing atoms
+  A43 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A43  with 14 missing atoms
+  G44 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G44  with 15 missing atoms
+  C45 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C45  with 12 missing atoms
+  G46 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G46  with 15 missing atoms
+  G47 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G47  with 15 missing atoms
+  U48 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U48  with 12 missing atoms
+  C49 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C49  with 12 missing atoms
+  G50 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G50  with 15 missing atoms
+  G51 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G51  with 15 missing atoms
+  A52 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A52  with 14 missing atoms
+  G53 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G53  with 15 missing atoms
+  G54 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G54  with 15 missing atoms
+  U55 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U55  with 12 missing atoms
+  U56 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U56  with 12 missing atoms
+  C57 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C57  with 12 missing atoms
+  G58 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G58  with 15 missing atoms
+  A59 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A59  with 14 missing atoms
+  A60 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A60  with 14 missing atoms
+  U61 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U61  with 12 missing atoms
+  C62 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C62  with 12 missing atoms
+  C63 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C63  with 12 missing atoms
+  U64 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U64  with 12 missing atoms
+  C65 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C65  with 12 missing atoms
+  C66 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C66  with 12 missing atoms
+  C67 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C67  with 12 missing atoms
+  G68 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G68  with 15 missing atoms
+  G69 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G69  with 15 missing atoms
+  A70 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A70  with 14 missing atoms
+  U71 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U71  with 12 missing atoms
+  G72 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G72  with 15 missing atoms
+  C73 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C73  with 12 missing atoms
+  A74 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A74  with 14 missing atoms
+  C75 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C75  with 12 missing atoms
+  C76 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C76  with 12 missing atoms
+  A77 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A77  with 14 missing atoms
+  G1 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G1  with 15 missing atoms
+  C2 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C2  with 12 missing atoms
+  A3 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A3  with 14 missing atoms
+  U4 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U4  with 12 missing atoms
+  C5 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C5  with 12 missing atoms
+  C6 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C6  with 12 missing atoms
+  G7 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G7  with 15 missing atoms
+  U8 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U8  with 12 missing atoms
+  A9 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A9  with 14 missing atoms
+  G10 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G10  with 15 missing atoms
+  C11 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C11  with 12 missing atoms
+  U12 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U12  with 12 missing atoms
+  C13 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C13  with 12 missing atoms
+  A14 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A14  with 14 missing atoms
+  G15 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G15  with 15 missing atoms
+  C16 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C16  with 12 missing atoms
+  U17 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U17  with 12 missing atoms
+  G18 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G18  with 15 missing atoms
+  G19 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G19  with 15 missing atoms
+  A20 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A20  with 14 missing atoms
+  U21 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U21  with 12 missing atoms
+  A22 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A22  with 14 missing atoms
+  G23 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G23  with 15 missing atoms
+  A24 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A24  with 14 missing atoms
+  G25 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G25  with 15 missing atoms
+  U26 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U26  with 12 missing atoms
+  A27 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A27  with 14 missing atoms
+  C28 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C28  with 12 missing atoms
+  U29 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U29  with 12 missing atoms
+  C30 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C30  with 12 missing atoms
+  G31 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G31  with 15 missing atoms
+  G32 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G32  with 15 missing atoms
+  C33 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C33  with 12 missing atoms
+  U34 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U34  with 12 missing atoms
+  A35 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A35  with 14 missing atoms
+  C36 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C36  with 12 missing atoms
+  G37 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G37  with 15 missing atoms
+  A38 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A38  with 14 missing atoms
+  A39 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A39  with 14 missing atoms
+  C40 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C40  with 12 missing atoms
+  C41 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C41  with 12 missing atoms
+  G42 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G42  with 15 missing atoms
+  A43 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A43  with 14 missing atoms
+  G44 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G44  with 15 missing atoms
+  C45 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C45  with 12 missing atoms
+  G46 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G46  with 15 missing atoms
+  G47 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G47  with 15 missing atoms
+  U48 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U48  with 12 missing atoms
+  C49 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C49  with 12 missing atoms
+  G50 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G50  with 15 missing atoms
+  G51 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G51  with 15 missing atoms
+  A52 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A52  with 14 missing atoms
+  G53 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G53  with 15 missing atoms
+  G54 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G54  with 15 missing atoms
+  U55 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U55  with 12 missing atoms
+  U56 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U56  with 12 missing atoms
+  C57 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C57  with 12 missing atoms
+  G58 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G58  with 15 missing atoms
+  A59 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A59  with 14 missing atoms
+  A60 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A60  with 14 missing atoms
+  U61 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U61  with 12 missing atoms
+  C62 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C62  with 12 missing atoms
+  C63 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C63  with 12 missing atoms
+  U64 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U64  with 12 missing atoms
+  C65 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C65  with 12 missing atoms
+  C66 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C66  with 12 missing atoms
+  C67 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C67  with 12 missing atoms
+  G68 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G68  with 15 missing atoms
+  G69 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G69  with 15 missing atoms
+  A70 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A70  with 14 missing atoms
+  U71 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U71  with 12 missing atoms
+  G72 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G72  with 15 missing atoms
+  C73 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C73  with 12 missing atoms
+  A74 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A74  with 14 missing atoms
+  C75 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C75  with 12 missing atoms
+  C76 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C76  with 12 missing atoms
+  A77 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A77  with 14 missing atoms
+  G1 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G1  with 15 missing atoms
+  C2 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C2  with 12 missing atoms
+  A3 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A3  with 14 missing atoms
+  U4 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U4  with 12 missing atoms
+  C5 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C5  with 12 missing atoms
+  C6 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C6  with 12 missing atoms
+  G7 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G7  with 15 missing atoms
+  U8 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U8  with 12 missing atoms
+  A9 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A9  with 14 missing atoms
+  G10 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G10  with 15 missing atoms
+  C11 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C11  with 12 missing atoms
+  U12 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U12  with 12 missing atoms
+  C13 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C13  with 12 missing atoms
+  A14 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A14  with 14 missing atoms
+  G15 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G15  with 15 missing atoms
+  C16 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C16  with 12 missing atoms
+  U17 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U17  with 12 missing atoms
+  G18 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G18  with 15 missing atoms
+  G19 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G19  with 15 missing atoms
+  A20 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A20  with 14 missing atoms
+  U21 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U21  with 12 missing atoms
+  A22 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A22  with 14 missing atoms
+  G23 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G23  with 15 missing atoms
+  A24 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A24  with 14 missing atoms
+  G25 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G25  with 15 missing atoms
+  U26 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U26  with 12 missing atoms
+  A27 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A27  with 14 missing atoms
+  C28 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C28  with 12 missing atoms
+  U29 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U29  with 12 missing atoms
+  C30 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C30  with 12 missing atoms
+  G31 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G31  with 15 missing atoms
+  G32 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G32  with 15 missing atoms
+  C33 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C33  with 12 missing atoms
+  U34 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U34  with 12 missing atoms
+  A35 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A35  with 14 missing atoms
+  C36 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C36  with 12 missing atoms
+  G37 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G37  with 15 missing atoms
+  A38 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A38  with 14 missing atoms
+  A39 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A39  with 14 missing atoms
+  C40 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C40  with 12 missing atoms
+  C41 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C41  with 12 missing atoms
+  G42 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G42  with 15 missing atoms
+  A43 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A43  with 14 missing atoms
+  G44 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G44  with 15 missing atoms
+  C45 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C45  with 12 missing atoms
+  G46 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G46  with 15 missing atoms
+  G47 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G47  with 15 missing atoms
+  U48 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U48  with 12 missing atoms
+  C49 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C49  with 12 missing atoms
+  G50 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G50  with 15 missing atoms
+  G51 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G51  with 15 missing atoms
+  A52 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A52  with 14 missing atoms
+  G53 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G53  with 15 missing atoms
+  G54 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G54  with 15 missing atoms
+  U55 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U55  with 12 missing atoms
+  U56 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U56  with 12 missing atoms
+  C57 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C57  with 12 missing atoms
+  G58 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G58  with 15 missing atoms
+  A59 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A59  with 14 missing atoms
+  A60 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A60  with 14 missing atoms
+  U61 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U61  with 12 missing atoms
+  C62 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C62  with 12 missing atoms
+  C63 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C63  with 12 missing atoms
+  U64 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U64  with 12 missing atoms
+  C65 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C65  with 12 missing atoms
+  C66 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C66  with 12 missing atoms
+  C67 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C67  with 12 missing atoms
+  G68 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G68  with 15 missing atoms
+  G69 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G69  with 15 missing atoms
+  A70 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A70  with 14 missing atoms
+  U71 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U71  with 12 missing atoms
+  G72 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G72  with 15 missing atoms
+  C73 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C73  with 12 missing atoms
+  A74 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A74  with 14 missing atoms
+  C75 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C75  with 12 missing atoms
+  C76 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C76  with 12 missing atoms
+  A77 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A77  with 14 missing atoms
+  G1 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G1  with 15 missing atoms
+  C2 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C2  with 12 missing atoms
+  A3 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A3  with 14 missing atoms
+  U4 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U4  with 12 missing atoms
+  C5 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C5  with 12 missing atoms
+  C6 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C6  with 12 missing atoms
+  G7 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G7  with 15 missing atoms
+  U8 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U8  with 12 missing atoms
+  A9 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A9  with 14 missing atoms
+  G10 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G10  with 15 missing atoms
+  C11 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C11  with 12 missing atoms
+  U12 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U12  with 12 missing atoms
+  C13 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C13  with 12 missing atoms
+  A14 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A14  with 14 missing atoms
+  G15 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G15  with 15 missing atoms
+  C16 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C16  with 12 missing atoms
+  U17 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U17  with 12 missing atoms
+  G18 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G18  with 15 missing atoms
+  G19 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G19  with 15 missing atoms
+  A20 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A20  with 14 missing atoms
+  U21 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U21  with 12 missing atoms
+  A22 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A22  with 14 missing atoms
+  G23 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G23  with 15 missing atoms
+  A24 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A24  with 14 missing atoms
+  G25 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G25  with 15 missing atoms
+  U26 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U26  with 12 missing atoms
+  A27 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A27  with 14 missing atoms
+  C28 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C28  with 12 missing atoms
+  U29 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U29  with 12 missing atoms
+  C30 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C30  with 12 missing atoms
+  G31 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G31  with 15 missing atoms
+  G32 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G32  with 15 missing atoms
+  C33 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C33  with 12 missing atoms
+  U34 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U34  with 12 missing atoms
+  A35 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A35  with 14 missing atoms
+  C36 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C36  with 12 missing atoms
+  G37 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G37  with 15 missing atoms
+  A38 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A38  with 14 missing atoms
+  A39 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A39  with 14 missing atoms
+  C40 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C40  with 12 missing atoms
+  C41 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C41  with 12 missing atoms
+  G42 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G42  with 15 missing atoms
+  A43 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A43  with 14 missing atoms
+  G44 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G44  with 15 missing atoms
+  C45 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C45  with 12 missing atoms
+  G46 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G46  with 15 missing atoms
+  G47 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G47  with 15 missing atoms
+  U48 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U48  with 12 missing atoms
+  C49 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C49  with 12 missing atoms
+  G50 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G50  with 15 missing atoms
+  G51 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G51  with 15 missing atoms
+  A52 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A52  with 14 missing atoms
+  G53 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G53  with 15 missing atoms
+  G54 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G54  with 15 missing atoms
+  U55 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U55  with 12 missing atoms
+  U56 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U56  with 12 missing atoms
+  C57 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C57  with 12 missing atoms
+  G58 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G58  with 15 missing atoms
+  A59 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A59  with 14 missing atoms
+  A60 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A60  with 14 missing atoms
+  U61 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U61  with 12 missing atoms
+  C62 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C62  with 12 missing atoms
+  C63 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C63  with 12 missing atoms
+  U64 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U64  with 12 missing atoms
+  C65 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C65  with 12 missing atoms
+  C66 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C66  with 12 missing atoms
+  C67 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C67  with 12 missing atoms
+  G68 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G68  with 15 missing atoms
+  G69 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G69  with 15 missing atoms
+  A70 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A70  with 14 missing atoms
+  U71 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U71  with 12 missing atoms
+  G72 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G72  with 15 missing atoms
+  C73 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C73  with 12 missing atoms
+  A74 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A74  with 14 missing atoms
+  C75 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C75  with 12 missing atoms
+  C76 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C76  with 12 missing atoms
+  A77 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A77  with 14 missing atoms
+  G1 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G1  with 15 missing atoms
+  C2 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C2  with 12 missing atoms
+  A3 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A3  with 14 missing atoms
+  U4 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U4  with 12 missing atoms
+  C5 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C5  with 12 missing atoms
+  C6 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C6  with 12 missing atoms
+  G7 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G7  with 15 missing atoms
+  U8 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U8  with 12 missing atoms
+  A9 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A9  with 14 missing atoms
+  G10 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G10  with 15 missing atoms
+  C11 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C11  with 12 missing atoms
+  U12 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U12  with 12 missing atoms
+  C13 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C13  with 12 missing atoms
+  A14 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A14  with 14 missing atoms
+  G15 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G15  with 15 missing atoms
+  C16 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C16  with 12 missing atoms
+  U17 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U17  with 12 missing atoms
+  G18 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G18  with 15 missing atoms
+  G19 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G19  with 15 missing atoms
+  A20 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A20  with 14 missing atoms
+  U21 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U21  with 12 missing atoms
+  A22 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A22  with 14 missing atoms
+  G23 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G23  with 15 missing atoms
+  A24 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A24  with 14 missing atoms
+  G25 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G25  with 15 missing atoms
+  U26 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U26  with 12 missing atoms
+  A27 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A27  with 14 missing atoms
+  C28 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C28  with 12 missing atoms
+  U29 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U29  with 12 missing atoms
+  C30 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C30  with 12 missing atoms
+  G31 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G31  with 15 missing atoms
+  G32 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G32  with 15 missing atoms
+  C33 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C33  with 12 missing atoms
+  U34 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U34  with 12 missing atoms
+  A35 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A35  with 14 missing atoms
+  C36 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C36  with 12 missing atoms
+  G37 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G37  with 15 missing atoms
+  A38 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A38  with 14 missing atoms
+  A39 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A39  with 14 missing atoms
+  C40 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C40  with 12 missing atoms
+  C41 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C41  with 12 missing atoms
+  G42 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G42  with 15 missing atoms
+  A43 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A43  with 14 missing atoms
+  G44 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G44  with 15 missing atoms
+  C45 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C45  with 12 missing atoms
+  G46 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G46  with 15 missing atoms
+  G47 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G47  with 15 missing atoms
+  U48 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U48  with 12 missing atoms
+  C49 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C49  with 12 missing atoms
+  G50 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G50  with 15 missing atoms
+  G51 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G51  with 15 missing atoms
+  A52 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A52  with 14 missing atoms
+  G53 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G53  with 15 missing atoms
+  G54 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G54  with 15 missing atoms
+  U55 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U55  with 12 missing atoms
+  U56 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U56  with 12 missing atoms
+  C57 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C57  with 12 missing atoms
+  G58 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G58  with 15 missing atoms
+  A59 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A59  with 14 missing atoms
+  A60 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A60  with 14 missing atoms
+  U61 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U61  with 12 missing atoms
+  C62 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C62  with 12 missing atoms
+  C63 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C63  with 12 missing atoms
+  U64 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U64  with 12 missing atoms
+  C65 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C65  with 12 missing atoms
+  C66 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C66  with 12 missing atoms
+  C67 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C67  with 12 missing atoms
+  G68 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G68  with 15 missing atoms
+  G69 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G69  with 15 missing atoms
+  A70 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A70  with 14 missing atoms
+  U71 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U71  with 12 missing atoms
+  G72 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G72  with 15 missing atoms
+  C73 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C73  with 12 missing atoms
+  A74 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A74  with 14 missing atoms
+  C75 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C75  with 12 missing atoms
+  C76 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C76  with 12 missing atoms
+  A77 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A77  with 14 missing atoms
+  G1 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G1  with 15 missing atoms
+  C2 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C2  with 12 missing atoms
+  A3 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A3  with 14 missing atoms
+  U4 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U4  with 12 missing atoms
+  C5 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C5  with 12 missing atoms
+  C6 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C6  with 12 missing atoms
+  G7 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G7  with 15 missing atoms
+  U8 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U8  with 12 missing atoms
+  A9 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A9  with 14 missing atoms
+  G10 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G10  with 15 missing atoms
+  C11 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C11  with 12 missing atoms
+  U12 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U12  with 12 missing atoms
+  C13 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C13  with 12 missing atoms
+  A14 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A14  with 14 missing atoms
+  G15 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G15  with 15 missing atoms
+  C16 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C16  with 12 missing atoms
+  U17 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U17  with 12 missing atoms
+  G18 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G18  with 15 missing atoms
+  G19 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G19  with 15 missing atoms
+  A20 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A20  with 14 missing atoms
+  U21 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U21  with 12 missing atoms
+  A22 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A22  with 14 missing atoms
+  G23 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G23  with 15 missing atoms
+  A24 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A24  with 14 missing atoms
+  G25 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G25  with 15 missing atoms
+  U26 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U26  with 12 missing atoms
+  A27 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A27  with 14 missing atoms
+  C28 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C28  with 12 missing atoms
+  U29 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U29  with 12 missing atoms
+  C30 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C30  with 12 missing atoms
+  G31 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G31  with 15 missing atoms
+  G32 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G32  with 15 missing atoms
+  C33 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C33  with 12 missing atoms
+  U34 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U34  with 12 missing atoms
+  A35 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A35  with 14 missing atoms
+  C36 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C36  with 12 missing atoms
+  G37 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G37  with 15 missing atoms
+  A38 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A38  with 14 missing atoms
+  A39 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A39  with 14 missing atoms
+  C40 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C40  with 12 missing atoms
+  C41 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C41  with 12 missing atoms
+  G42 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G42  with 15 missing atoms
+  A43 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A43  with 14 missing atoms
+  G44 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G44  with 15 missing atoms
+  C45 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C45  with 12 missing atoms
+  G46 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G46  with 15 missing atoms
+  G47 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G47  with 15 missing atoms
+  U48 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U48  with 12 missing atoms
+  C49 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C49  with 12 missing atoms
+  G50 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G50  with 15 missing atoms
+  G51 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G51  with 15 missing atoms
+  A52 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A52  with 14 missing atoms
+  G53 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G53  with 15 missing atoms
+  G54 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G54  with 15 missing atoms
+  U55 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U55  with 12 missing atoms
+  U56 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U56  with 12 missing atoms
+  C57 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C57  with 12 missing atoms
+  G58 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G58  with 15 missing atoms
+  A59 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A59  with 14 missing atoms
+  A60 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A60  with 14 missing atoms
+  U61 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U61  with 12 missing atoms
+  C62 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C62  with 12 missing atoms
+  C63 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C63  with 12 missing atoms
+  U64 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U64  with 12 missing atoms
+  C65 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C65  with 12 missing atoms
+  C66 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C66  with 12 missing atoms
+  C67 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C67  with 12 missing atoms
+  G68 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G68  with 15 missing atoms
+  G69 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G69  with 15 missing atoms
+  A70 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A70  with 14 missing atoms
+  U71 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   O2   O2'  O4   O4'  OP1  OP2 
+fill residue   U71  with 12 missing atoms
+  G72 	15 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N2   N3   N7   O2'  O4'  O6   OP1  OP2 
+fill residue   G72  with 15 missing atoms
+  C73 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C73  with 12 missing atoms
+  A74 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A74  with 14 missing atoms
+  C75 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C75  with 12 missing atoms
+  C76 	12 missing atoms	 C2   C2'  C4   C5   C6   N3   N4   O2   O2'  O4'  OP1  OP2 
+fill residue   C76  with 12 missing atoms
+  A77 	14 missing atoms	 C2   C2'  C4   C5   C6   C8   N1   N3   N6   N7   O2'  O4'  OP1  OP2 
+fill residue   A77  with 14 missing atoms

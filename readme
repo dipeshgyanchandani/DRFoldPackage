@@ -1,0 +1,43 @@
+		INSTALLATION AND IMPLEMENTATION OF DRfold
+(Copyright 2022 by Zhang Lab and Freddolino lab, University of Michigan, All rights reserved)
+
+1. What is DRfold?
+    DRfold (Deep RNA fold) is a program for RNA tertiary structure prediction based on deep learning potentials. 
+
+2. How to install the DRfold?
+    1) Third-party softwares
+		1. PETfold (https://rth.dk/resources/petfold/download.html)
+		2. The ViennaRNA Package (https://www.tbi.univie.ac.at/RNA/)
+
+    1) Prerequisites
+        1. Python3 with numpy and scipy 
+        2. pytorch (https://pytorch.org/get-started/locally/)
+           Anaconda is recommended to set up python environments
+
+    2) Localization 
+		1. Modify DRfold/scripts/Features.py to set 'petfoldbin' and 'ViennaRNAbin' properly, according to
+			your own installation.
+		2. Modify the PETFOLDBIN path in DRfold/DRfold.sh (Line 6)
+		3. Modify the PYTHON path in DRfold/DRfold.sh (Line 7)
+		4. Set executable permission to the bin file in DRfold/bin/.
+
+3. Bug report:
+    Please visit https://zhanglab.ccmb.med.umich.edu/bbs/?q=forum/2
+
+4. How to run the DRfold?
+	python DRfold.sh [fastafile] [outputdir]
+		fastafile: The input fastafile containing the query sequence
+		outputdir:  Output file dir
+
+5. Example
+	You can test by fowllowing commands:
+		' bash DRfold.sh test/seq.fasta test/DRfold_out '
+	It will generate several files:
+		' DPR.pdb ': is the final results of DRfold
+		Other by-products:
+		' DPR_{0~5}.pdb '       : raw structures from 6 end-to-end models (numbers are not related to the rankings) 
+		' geo.npy '				: averaged geometry predictions from 3 geometry models, can be accessed by "np.load('geo.npy',allow_pickle=True).item()"
+
+Reference
+Yang Li, Chengxin Zhang, Chenjie Feng, Peter L. Freddolino, Yang Zhang.
+Improved ab initio RNA structure prediction with deep end-to-end potential, submitted.
