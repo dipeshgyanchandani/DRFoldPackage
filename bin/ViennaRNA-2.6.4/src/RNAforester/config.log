@@ -214,7 +214,7 @@ configure:5336: $? = 0
 configure:5349: result: none needed
 configure:5379: checking for library containing yywrap
 configure:5408: g++ -o conftest -g -O2   conftest.cpp  >&5
-/usr/bin/ld: /tmp/ccNswYTG.o: in function `main':
+/usr/bin/ld: /tmp/cc1iVCCW.o: in function `main':
 /home/dgyancha/DirectedStudyDipesh/DRFoldPackage/bin/ViennaRNA-2.6.4/src/RNAforester/conftest.cpp:18: undefined reference to `yywrap'
 collect2: error: ld returned 1 exit status
 configure:5408: $? = 1
@@ -458,8 +458,10 @@ config.status:871: creating Makefile
 config.status:871: creating src/Makefile
 config.status:871: creating man/Makefile
 config.status:871: creating config.h
+config.status:1052: config.h is unchanged
 config.status:1100: executing depfiles commands
 config.status:1177: cd src       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1182: $? = 0
 configure:7821: === configuring in g2-0.72 (/home/dgyancha/DirectedStudyDipesh/DRFoldPackage/bin/ViennaRNA-2.6.4/src/RNAforester/g2-0.72)
 configure:7882: running /bin/bash ./configure --disable-option-checking '--prefix=/usr/local'  'CC=gcc' 'CXX=g++' 'CFLAGS=-g -O2' 'CXXFLAGS=-g -O2' 'AR=ar' 'RANLIB=ranlib' 'NM=/usr/bin/nm -B' 'VRNA_CFLAGS=-I$(top_srcdir)/../../src/ViennaRNA -I$(top_srcdir)/../../src -DVRNA_WITH_NAVIEW_LAYOUT' 'VRNA_LIBS=-fno-strict-aliasing -L$(top_builddir)/../../src/ViennaRNA -lRNA -fopenmp -lpthread -lstdc++' --cache-file=/dev/null --srcdir=.

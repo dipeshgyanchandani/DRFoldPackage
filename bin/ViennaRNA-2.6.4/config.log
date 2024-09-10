@@ -14100,20 +14100,28 @@ config.status:1837: creating packaging/win_installer_archlinux_x86_64.nsi
 config.status:1837: creating packaging/win_installer_fedora_i686.nsi
 config.status:1837: creating packaging/win_installer_fedora_x86_64.nsi
 config.status:1837: creating config.h
+config.status:2018: config.h is unchanged
 config.status:2066: executing depfiles commands
 config.status:2143: cd src/ViennaRNA/plotting/naview       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:2148: $? = 0
 config.status:2143: cd interfaces/Perl       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:2148: $? = 0
 config.status:2143: cd interfaces/Python       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:2148: $? = 0
 config.status:2143: cd tests       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:2148: $? = 0
 config.status:2143: cd src/Utils       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:2148: $? = 0
 config.status:2143: cd src/bin       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:2148: $? = 0
 config.status:2143: cd src/ViennaRNA       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:2148: $? = 0
 config.status:2066: executing libtool commands
 configure:37534: === configuring in src/Kinfold (/home/dgyancha/DirectedStudyDipesh/DRFoldPackage/bin/ViennaRNA-2.6.4/src/Kinfold)

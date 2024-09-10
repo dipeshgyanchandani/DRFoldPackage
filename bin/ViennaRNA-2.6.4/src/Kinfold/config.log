@@ -272,8 +272,10 @@ on an-pc01
 config.status:878: creating Example/Makefile
 config.status:878: creating Makefile
 config.status:878: creating config.h
+config.status:1059: config.h is unchanged
 config.status:1107: executing depfiles commands
 config.status:1184: cd .       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1189: $? = 0
 
 ## ---------------- ##
