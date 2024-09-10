@@ -3,8 +3,8 @@ IN="$1"                # input.fasta
 WDIR=`realpath -s $2`  # working folder
 
 mkdir -p $WDIR
-export PETFOLDBIN="/nfs/amino-home/liyangum/eRNA/programs/PETfold/bin"
-PYTHON="/nfs/amino-home/liyangum/forzhang/RosettaFold/conda/envs/RoseTTAFold/bin/python"
+export PETFOLDBIN="/home/dgyancha/DirectedStudyDipesh/projects/DRfold/bin/PETfold/bin/PETfold"
+PYTHON="python"
 export MKL_THREADING_LAYER=GNU
 full_path=$(realpath $0)
  

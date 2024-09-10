@@ -18,7 +18,7 @@ def ss2matrix(ssstr):
             assert False
     return ssmatrix
 def PETfold_runner(fastafile,saveprefix):
-    petfoldbin =f'/nfs/amino-home/liyangum/eRNA/programs/PETfold/bin/PETfold'
+    petfoldbin =f'/home/dgyancha/DirectedStudyDipesh/projects/DRfold/bin/PETfold/bin/PETfold'
     petfold_savefile=saveprefix+'.petfold'
     ppfile          =saveprefix+'.petfoldrr'
     fasta_ = os.path.abspath(fastafile)
@@ -43,7 +43,7 @@ def PETfold_runner(fastafile,saveprefix):
 
 
 def ViennaRNA_runner(fastafile,saveprefix_):
-    ViennaRNAbin='/nfs/amino-home/liyangum/eRNA/programs/ViennaRNA-2.4.18-bin/bin/RNAfold'
+    ViennaRNAbin='/home/dgyancha/DirectedStudyDipesh/DRFoldPackage/bin/ViennaRNA-2.6.4/src/bin/RNAfold'
     saveprefix = os.path.abspath(saveprefix_)
     path = Path(saveprefix)
     seq=open(fastafile).readlines()[1].strip()
