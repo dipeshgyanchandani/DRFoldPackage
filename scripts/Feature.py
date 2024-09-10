@@ -18,7 +18,7 @@ def ss2matrix(ssstr):
             assert False
     return ssmatrix
 def PETfold_runner(fastafile,saveprefix):
-    petfoldbin =f'/home/dgyancha/DirectedStudyDipesh/projects/DRfold/bin/PETfold/bin/'
+    petfoldbin =f'/home/dgyancha/DirectedStudyDipesh/projects/DRfold/bin/PETfold/bin/PETfold'
     petfold_savefile=saveprefix+'.petfold'
     ppfile          =saveprefix+'.petfoldrr'
     fasta_ = os.path.abspath(fastafile)
