@@ -1,0 +1,69 @@
+   1 UGGAAGCAUAA 31.797
+   4 UGGAAGCACAA 29.021
+   5 GGGAAUCACCA 27.942
+   7 GGAAAUCAUCA 21.984
+   9 GGUAAUCAACA 21.884
+  11 GGUAAUCAACU 16.225
+  12 GGUGAUCAACU 12.568
+  36 GGUGACCAACU 10.293
+1..14
+ok 1 - use RNA;
+PASS: perl5/test-RNA-Design.t 1 - use RNA;
+ok 2 - use RNA::Design;
+PASS: perl5/test-RNA-Design.t 2 - use RNA::Design;
+ok 3 - use RNA::Utils;
+PASS: perl5/test-RNA-Design.t 3 - use RNA::Utils;
+ok 4 - 'Object initialized' isa 'RNA::Design'
+PASS: perl5/test-RNA-Design.t 4 - 'Object initialized' isa 'RNA::Design'
+# Subtest: RNA::Design -- Default Options
+    1..3
+    ok 1 - get_verbosity()
+    ok 2 - get_constraint()
+    ok 3 - get_structures()
+ok 5 - RNA::Design -- Default Options
+PASS: perl5/test-RNA-Design.t 5 - RNA::Design -- Default Options
+# Subtest: RNA::Design -- Internal Functions
+    1..19
+    ok 1 - rewrite_neighbor() - change
+    ok 2 - rewrite_neighbor() - constant
+    ok 3 - update_constraint() - cycle
+    ok 4 - update_constraint() - path
+    ok 5 - enumerate_pathways() - path_long
+    ok 6 - enumerate_pathways() - cycle_long
+    ok 7 - update_constraint() - path
+    ok 8 - enum_pathways() - path
+    ok 9 - update_constraint() - cycle
+    ok 10 - enum_pathways() - cycle
+    ok 11 - make_pathseq() - path
+    ok 12 - make_pathseq() - cycle
+    ok 13 - make_pathseq() - path
+    ok 14 - make_pathseq() - cycle
+    ok 15 - make_pathseq() - path
+    ok 16 - make_pathseq() - cycle
+    ok 17 - update_constraint() - HNN-case
+    ok 18 - enum_pathways() - HDN
+    ok 19 - make_pathseq() - HDN
+ok 6 - RNA::Design -- Internal Functions
+PASS: perl5/test-RNA-Design.t 6 - RNA::Design -- Internal Functions
+ok 7 - find_dependency_paths -- one bpair
+PASS: perl5/test-RNA-Design.t 7 - find_dependency_paths -- one bpair
+ok 8 - find_dependency_paths -- three knots
+PASS: perl5/test-RNA-Design.t 8 - find_dependency_paths -- three knots
+ok 9 - find_dependency_paths -- "[,]" knot
+PASS: perl5/test-RNA-Design.t 9 - find_dependency_paths -- "[,]" knot
+ok 10 - find_dependency_paths -- nested knots
+PASS: perl5/test-RNA-Design.t 10 - find_dependency_paths -- nested knots
+ok 11 - find_dependency_paths -- two pathways
+PASS: perl5/test-RNA-Design.t 11 - find_dependency_paths -- two pathways
+ok 12 - find_dependency_paths -- duplicate struct
+PASS: perl5/test-RNA-Design.t 12 - find_dependency_paths -- duplicate struct
+ok 13 - find_dependency_paths -- cycles,pathways,basepairs
+PASS: perl5/test-RNA-Design.t 13 - find_dependency_paths -- cycles,pathways,basepairs
+ok 14 - explore_sequence_space()
+PASS: perl5/test-RNA-Design.t 14 - explore_sequence_space()
+done testing
+
+*Start with full example!*
+2016 Number of sequences, 23 neighbors for each sequence.
+UGGAAGGAUAA 17
+GGUGACCAACU  10.2929159218747

@@ -1,0 +1,17 @@
+TAP version 13
+1..4
+(((((..)))))  -5.40
+ok 1 - Hairpin backtracking (basepair)
+PASS: python/test_RNA-sc-callbacks.py 1 - Hairpin backtracking (basepair)
+(((((..)))))  -5.40
+ok 2 - Hairpin backtracking (Dictionary)
+PASS: python/test_RNA-sc-callbacks.py 2 - Hairpin backtracking (Dictionary)
+(((((..)))))  -5.40
+ok 3 - Hairpin backtracking (Tuples)
+PASS: python/test_RNA-sc-callbacks.py 3 - Hairpin backtracking (Tuples)
+AUUUCCACUAGAGAAGGUCUAGAGUGUUUGUCGUUUGUCAGAAGUCCCUAUUCC
+.(((..((.((((((((((....).)))).)).))))).)))(((....))).. (max BPs: 18)
+GGGGAAAACCCC
+((((....)))) (max BPs: 4)
+ok 4 - Revert MFE to MaximumMatching
+PASS: python/test_RNA-sc-callbacks.py 4 - Revert MFE to MaximumMatching

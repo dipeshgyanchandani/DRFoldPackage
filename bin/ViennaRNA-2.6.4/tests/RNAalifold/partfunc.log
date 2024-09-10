@@ -1,0 +1,5 @@
+1..2
+ok - Partition function (centroid, MEA)
+PASS: RNAalifold/partfunc 1 - Partition function (centroid, MEA)
+ok - Partition function (base pair probabilities)
+PASS: RNAalifold/partfunc 2 - Partition function (base pair probabilities)

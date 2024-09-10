@@ -1,0 +1,11 @@
+WARNING: Input sequence 2 differs from sequence provided via SHAPE file!
+WARNING: Input sequence 1 differs from sequence provided via SHAPE file!
+1..4
+ok - G-Quadruplex feature (MFE, centroid, MEA)
+PASS: RNAalifold/special 1 - G-Quadruplex feature (MFE, centroid, MEA)
+ok - Parallel processing of input data
+PASS: RNAalifold/special 2 - Parallel processing of input data
+ok - SHAPE probing data (070313_ecoli_cdiff_16S_clustalw.aln) Deigan et al. 2009 method
+PASS: RNAalifold/special 3 - SHAPE probing data (070313_ecoli_cdiff_16S_clustalw.aln) Deigan et al. 2009 method
+ok - MFE/PF prediction (RNAalifold -p0 --circ)
+PASS: RNAalifold/special 4 - MFE/PF prediction (RNAalifold -p0 --circ)

@@ -1,0 +1,101 @@
+Useless use of a constant ("\n") in void context at ./perl5/test-RNA-pf_window.pl line 488.
+1..37
+Checking whether pfl_fold() returns reasonable results...
+ok 1
+PASS: perl5/test-RNA-pf_window.pl 1
+ok 2
+PASS: perl5/test-RNA-pf_window.pl 2
+ok 3
+PASS: perl5/test-RNA-pf_window.pl 3
+ok 4
+PASS: perl5/test-RNA-pf_window.pl 4
+Checking whether pfl_fold_up() returns reasonable results...
+ok 5
+PASS: perl5/test-RNA-pf_window.pl 5
+ok 6
+PASS: perl5/test-RNA-pf_window.pl 6
+ok 7
+PASS: perl5/test-RNA-pf_window.pl 7
+ok 8
+PASS: perl5/test-RNA-pf_window.pl 8
+ok 9
+PASS: perl5/test-RNA-pf_window.pl 9
+Checking whether we can do the same with a single call to probs_window()...
+ok 10
+PASS: perl5/test-RNA-pf_window.pl 10
+ok 11
+PASS: perl5/test-RNA-pf_window.pl 11
+ok 12
+PASS: perl5/test-RNA-pf_window.pl 12
+ok 13
+PASS: perl5/test-RNA-pf_window.pl 13
+ok 14
+PASS: perl5/test-RNA-pf_window.pl 14
+ok 15
+PASS: perl5/test-RNA-pf_window.pl 15
+ok 16
+PASS: perl5/test-RNA-pf_window.pl 16
+ok 17
+PASS: perl5/test-RNA-pf_window.pl 17
+ok 18
+PASS: perl5/test-RNA-pf_window.pl 18
+Checking whether probs_window() with SHAPE reactivity data and full-length window does the same as regular pf()...
+ok 19
+PASS: perl5/test-RNA-pf_window.pl 19
+ok 20
+PASS: perl5/test-RNA-pf_window.pl 20
+Checking whether probs_window() with full-length window does the same as regular pf()...
+ok 21
+PASS: perl5/test-RNA-pf_window.pl 21
+Checking whether lowering the entire ensemble by -1.0 kcal/mol per nucleotide using soft constraints doesn't change equilibrium pairing probabilities...
+ok 22
+PASS: perl5/test-RNA-pf_window.pl 22
+Checking whether lowering the entire ensemble by -1.0 kcal/mol per nucleotide using soft constraints doesn't change equilibrium unpaired probabilities...
+ok 23
+PASS: perl5/test-RNA-pf_window.pl 23
+Checking whether individual loop context unpaired probabilities sum up properly...
+ok 24
+PASS: perl5/test-RNA-pf_window.pl 24
+Checking whether unpaired probabilities for u = 1 are identical to what we get using regular partition function method...
+ok 25
+PASS: perl5/test-RNA-pf_window.pl 25
+Checking whether unpaired probabilties for short RNAs are identical to what we get from exhaustive enumeration...
+	Trial 0 - Difference between pflfold unpaired probs and exhaustive enumeration
+	Exterior loop    (avg, var)	1.43866e-09	8.97668e-18
+	Hairpin loop     (avg, var)	6.55749e-10	1.26678e-17
+	Interior loop    (avg, var)	2.40416e-11	3.81597e-20
+	Multibranch loop (avg, var)	2.08687e-19	2.91047e-36
+ok 26
+PASS: perl5/test-RNA-pf_window.pl 26
+ok 27
+PASS: perl5/test-RNA-pf_window.pl 27
+ok 28
+PASS: perl5/test-RNA-pf_window.pl 28
+ok 29
+PASS: perl5/test-RNA-pf_window.pl 29
+	Trial 1 - Difference between pflfold unpaired probs and exhaustive enumeration
+	Exterior loop    (avg, var)	4.09963e-09	1.89043e-17
+	Hairpin loop     (avg, var)	2.76516e-09	1.57929e-16
+	Interior loop    (avg, var)	9.60025e-10	6.15869e-17
+	Multibranch loop (avg, var)	1.26627e-18	8.04392e-35
+ok 30
+PASS: perl5/test-RNA-pf_window.pl 30
+ok 31
+PASS: perl5/test-RNA-pf_window.pl 31
+ok 32
+PASS: perl5/test-RNA-pf_window.pl 32
+ok 33
+PASS: perl5/test-RNA-pf_window.pl 33
+	Trial 2 - Difference between pflfold unpaired probs and exhaustive enumeration
+	Exterior loop    (avg, var)	4.47533e-09	4.81499e-16
+	Hairpin loop     (avg, var)	2.65455e-09	2.49741e-16
+	Interior loop    (avg, var)	1.24621e-09	7.30603e-17
+	Multibranch loop (avg, var)	1.25333e-17	4.17713e-33
+ok 34
+PASS: perl5/test-RNA-pf_window.pl 34
+ok 35
+PASS: perl5/test-RNA-pf_window.pl 35
+ok 36
+PASS: perl5/test-RNA-pf_window.pl 36
+ok 37
+PASS: perl5/test-RNA-pf_window.pl 37

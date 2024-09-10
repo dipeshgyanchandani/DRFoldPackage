@@ -1,0 +1,55 @@
+TAP version 13
+1..11
+((((....)))) [ -33.33 ]
+ok 1 - Structure energy evaluation - Covariance energy contribution
+PASS: python/test_RNA-mfe_eval.py 1 - Structure energy evaluation - Covariance energy contribution
+[  -3.30 ]
+ok 2 - Loop energy evaluation
+PASS: python/test_RNA-mfe_eval.py 2 - Loop energy evaluation
+
+ (((.(((...))))))  moveset (-7,-11) --> [   2.10 ]
+ok 3 - Move energy evaluation - base pair removal
+PASS: python/test_RNA-mfe_eval.py 3 - Move energy evaluation - base pair removal
+
+ (((.((.....)))))  moveset (7,11) --> [  -2.10 ]
+ok 4 - Move energy evaluation - base pair insertion
+PASS: python/test_RNA-mfe_eval.py 4 - Move energy evaluation - base pair insertion
+
+ (((.(((...))))))  moveset (-7,-11) --> [   2.10 ]
+ok 5 - Move energy evaluation - base pair removal - pair table
+PASS: python/test_RNA-mfe_eval.py 5 - Move energy evaluation - base pair removal - pair table
+
+ (((.(((...)))))) [  -5.60 ]
+ok 6 - Structure energy evaluation - dot-bracket string
+PASS: python/test_RNA-mfe_eval.py 6 - Structure energy evaluation - dot-bracket string
+(((.(((...)))))) [  -5.60 ]
+ok 7 - Structure energy evaluation - pair table
+PASS: python/test_RNA-mfe_eval.py 7 - Structure energy evaluation - pair table
+External loop                           :     0
+Interior loop (  1, 16) CG; (  2, 15) GC:  -240
+Interior loop (  2, 15) GC; (  3, 14) CG:  -340
+Interior loop (  3, 14) CG; (  5, 13) GC:   140
+Interior loop (  5, 13) GC; (  6, 12) GC:  -330
+Interior loop (  6, 12) GC; (  7, 11) GC:  -330
+Hairpin  loop (  7, 11) GC              :   540
+test_RNA-mfe_eval.py.out  is opened for writing
+(((.(((...)))))) [  -5.60 ]
+ok 8 - Structure energy evaluation - pair table - verbose output
+PASS: python/test_RNA-mfe_eval.py 8 - Structure energy evaluation - pair table - verbose output
+External loop                           :     0
+Interior loop (  1, 16) CG; (  2, 15) GC:  -240
+Interior loop (  2, 15) GC; (  3, 14) CG:  -340
+Interior loop (  3, 14) CG; (  5, 13) GC:   140
+Interior loop (  5, 13) GC; (  6, 12) GC:  -330
+Interior loop (  6, 12) GC; (  7, 11) GC:  -330
+Hairpin  loop (  7, 11) GC              :   540
+test_RNA-mfe_eval.py.out  is opened for writing
+(((.(((...)))))) [  -5.60 ]
+ok 9 - Structure energy evaluation - dot-bracket string - verbose output
+PASS: python/test_RNA-mfe_eval.py 9 - Structure energy evaluation - dot-bracket string - verbose output
+(((.(((...)))))) [  -5.60 ]
+ok 10 - MFE prediction - single sequence
+PASS: python/test_RNA-mfe_eval.py 10 - MFE prediction - single sequence
+(((.(((..)))))) [  -8.00 ]
+ok 11 - MFE prediction - dimer
+PASS: python/test_RNA-mfe_eval.py 11 - MFE prediction - dimer

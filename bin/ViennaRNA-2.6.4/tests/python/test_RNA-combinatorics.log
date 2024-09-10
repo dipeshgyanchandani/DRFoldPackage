@@ -1,0 +1,6 @@
+TAP version 13
+1..2
+ok 1 - Enumerate necklaces (4 sequences, 1 strand per sequences)
+PASS: python/test_RNA-combinatorics.py 1 - Enumerate necklaces (4 sequences, 1 strand per sequences)
+ok 2 - Enumerate necklaces (3 sequences, different number of strands per sequence)
+PASS: python/test_RNA-combinatorics.py 2 - Enumerate necklaces (3 sequences, different number of strands per sequence)

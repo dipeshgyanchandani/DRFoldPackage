@@ -1,0 +1,5 @@
+1..2
+ok - MFE prediction (.seq file)
+PASS: RNAfold/long 1 - MFE prediction (.seq file)
+ok - MFE prediction (.fasta file)
+PASS: RNAfold/long 2 - MFE prediction (.fasta file)

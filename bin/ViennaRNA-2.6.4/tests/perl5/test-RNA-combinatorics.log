@@ -1,0 +1,5 @@
+1..2
+ok 1 - Enumerate Necklaces (4 sequences, 1 strand per sequences)
+PASS: perl5/test-RNA-combinatorics.pl 1 - Enumerate Necklaces (4 sequences, 1 strand per sequences)
+ok 2 - Enumerate necklaces (3 sequences, different number of strands per sequence)
+PASS: perl5/test-RNA-combinatorics.pl 2 - Enumerate necklaces (3 sequences, different number of strands per sequence)

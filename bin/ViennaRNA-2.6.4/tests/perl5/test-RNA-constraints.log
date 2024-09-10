@@ -1,0 +1,17 @@
+1..8
+ok 1 - Fold compound method - constraints_add - hard constraints
+PASS: perl5/test-RNA-constraints.pl 1 - Fold compound method - constraints_add - hard constraints
+ok 2 - Fold compound method - hc_init
+PASS: perl5/test-RNA-constraints.pl 2 - Fold compound method - hc_init
+ok 3 - Fold compound method - constraints_add - soft constraints
+PASS: perl5/test-RNA-constraints.pl 3 - Fold compound method - constraints_add - soft constraints
+ok 4 - Fold compound method - hc_add_up
+PASS: perl5/test-RNA-constraints.pl 4 - Fold compound method - hc_add_up
+ok 5 - Fold compound method - hc_add_bp_nonspecific
+PASS: perl5/test-RNA-constraints.pl 5 - Fold compound method - hc_add_bp_nonspecific
+ok 6 - Fold compound method - hc_ad_bp
+PASS: perl5/test-RNA-constraints.pl 6 - Fold compound method - hc_ad_bp
+ok 7 - Fold compound method - hc_add_from_db
+PASS: perl5/test-RNA-constraints.pl 7 - Fold compound method - hc_add_from_db
+ok 8 - Fold compound method - hc_add_bp - sliding window MFE
+PASS: perl5/test-RNA-constraints.pl 8 - Fold compound method - hc_add_bp - sliding window MFE

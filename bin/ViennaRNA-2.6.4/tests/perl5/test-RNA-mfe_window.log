@@ -1,0 +1,50 @@
+1..21
+test_mfe_window
+ok 1
+PASS: perl5/test-RNA-mfe_window.pl 1
+test_Lfold_cb
+ok 2
+PASS: perl5/test-RNA-mfe_window.pl 2
+ok 3
+PASS: perl5/test-RNA-mfe_window.pl 3
+ok 4
+PASS: perl5/test-RNA-mfe_window.pl 4
+ok 5
+PASS: perl5/test-RNA-mfe_window.pl 5
+ok 6
+PASS: perl5/test-RNA-mfe_window.pl 6
+test_mfe_window_cb
+ok 7
+PASS: perl5/test-RNA-mfe_window.pl 7
+ok 8
+PASS: perl5/test-RNA-mfe_window.pl 8
+ok 9
+PASS: perl5/test-RNA-mfe_window.pl 9
+ok 10
+PASS: perl5/test-RNA-mfe_window.pl 10
+ok 11
+PASS: perl5/test-RNA-mfe_window.pl 11
+test_aliLfold_cb
+ok 12
+PASS: perl5/test-RNA-mfe_window.pl 12
+ok 13
+PASS: perl5/test-RNA-mfe_window.pl 13
+ok 14
+PASS: perl5/test-RNA-mfe_window.pl 14
+ok 15
+PASS: perl5/test-RNA-mfe_window.pl 15
+ok 16
+PASS: perl5/test-RNA-mfe_window.pl 16
+test_mfe_window_cb (comparative)
+ok 17
+PASS: perl5/test-RNA-mfe_window.pl 17
+ok 18
+PASS: perl5/test-RNA-mfe_window.pl 18
+ok 19
+PASS: perl5/test-RNA-mfe_window.pl 19
+ok 20
+PASS: perl5/test-RNA-mfe_window.pl 20
+ok 21
+PASS: perl5/test-RNA-mfe_window.pl 21
+.((....)). ( -0.80)    5
+(((.(((...)))))) ( -5.60)    1

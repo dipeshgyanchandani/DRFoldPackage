@@ -1,0 +1,8 @@
+TAP version 13
+1..3
+ok 1 - Ensembe defect
+PASS: python/test_RNA-ensemble_defect.py 1 - Ensembe defect
+ok 2 - Ensemble defect (pk)
+PASS: python/test_RNA-ensemble_defect.py 2 - Ensemble defect (pk)
+ok 3 - Ensembe defect (sanity check)
+PASS: python/test_RNA-ensemble_defect.py 3 - Ensembe defect (sanity check)

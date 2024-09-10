@@ -1,0 +1,22 @@
+1..1
+ok 1
+PASS: perl5/test-RNA-callbacks.pl 1
+about to start MFE recursions
+$VAR1 = {
+          'test' => 'something'
+        };
+
+finished MFE recursions
+$VAR1 = {
+          'test' => 'something'
+        };
+
+(((((..))))) -15.40
+(((......))) [ -2.70]
+((((....)))) [ -5.40]
+.(((.....))) [ -2.40]
+(((.....))). [ -4.20]
+.((......)). [ -0.40]
+.(((....))). [ -3.10]
+((......)).. [ -1.20]
+.((.....)).. [ -1.10]

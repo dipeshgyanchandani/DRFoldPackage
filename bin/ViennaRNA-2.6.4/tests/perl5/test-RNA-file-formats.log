@@ -1,0 +1,75 @@
+712 sequences; length of alignment 230.
+61 sequences; length of alignment 207.
+100 sequences; length of alignment 203.
+208 sequences; length of alignment 278.
+5 sequences; length of alignment 42.
+5 sequences; length of alignment 6.
+4 sequences; length of alignment 13.
+1..28
+Checking whether we are able to detect STOCKHOLM 1.0 alignment format...
+ok 1
+PASS: perl5/test-RNA-file-formats.pl 1
+Checking whether we are able to detect CLUSTAL alignment format...
+ok 2
+PASS: perl5/test-RNA-file-formats.pl 2
+Checking whether we are able to detect FASTA alignment format...
+ok 3
+PASS: perl5/test-RNA-file-formats.pl 3
+Checking whether we are able to detect MAF alignment format...
+ok 4
+PASS: perl5/test-RNA-file-formats.pl 4
+Checking whether we are able to reject non-alignment file format...
+ok 5
+PASS: perl5/test-RNA-file-formats.pl 5
+Checking whether we are able to parse STOCKHOLM 1.0 alignment format...
+ok 6
+PASS: perl5/test-RNA-file-formats.pl 6
+ok 7
+PASS: perl5/test-RNA-file-formats.pl 7
+ok 8
+PASS: perl5/test-RNA-file-formats.pl 8
+ok 9
+PASS: perl5/test-RNA-file-formats.pl 9
+ok 10
+PASS: perl5/test-RNA-file-formats.pl 10
+ok 11
+PASS: perl5/test-RNA-file-formats.pl 11
+Checking whether we are able to parse multi STOCKHOLM 1.0 alignment format...
+ok 12
+PASS: perl5/test-RNA-file-formats.pl 12
+Checking whether we are able to parse CLUSTAL alignment format...
+ok 13
+PASS: perl5/test-RNA-file-formats.pl 13
+ok 14
+PASS: perl5/test-RNA-file-formats.pl 14
+ok 15
+PASS: perl5/test-RNA-file-formats.pl 15
+ok 16
+PASS: perl5/test-RNA-file-formats.pl 16
+ok 17
+PASS: perl5/test-RNA-file-formats.pl 17
+Checking whether we are able to parse FASTA alignment format...
+ok 18
+PASS: perl5/test-RNA-file-formats.pl 18
+ok 19
+PASS: perl5/test-RNA-file-formats.pl 19
+ok 20
+PASS: perl5/test-RNA-file-formats.pl 20
+ok 21
+PASS: perl5/test-RNA-file-formats.pl 21
+ok 22
+PASS: perl5/test-RNA-file-formats.pl 22
+Checking whether we are able to parse MAF alignment format...
+ok 23
+PASS: perl5/test-RNA-file-formats.pl 23
+ok 24
+PASS: perl5/test-RNA-file-formats.pl 24
+ok 25
+PASS: perl5/test-RNA-file-formats.pl 25
+ok 26
+PASS: perl5/test-RNA-file-formats.pl 26
+ok 27
+PASS: perl5/test-RNA-file-formats.pl 27
+Checking whether we are able to parse multi MAF alignment format...
+ok 28
+PASS: perl5/test-RNA-file-formats.pl 28

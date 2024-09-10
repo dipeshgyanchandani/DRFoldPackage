@@ -1,0 +1,8 @@
+TAP version 13
+1..2
+((((...((((.....(.(.....).).))))...))))...((.((((((((((.((((((.((.((((....)))).))..)))))).)))))))))))).. [ -35.60 ]
+ok 1 - Soft constraints - Motif - Hairpin
+PASS: python/test_RNA-constraints-special.py 1 - Soft constraints - Motif - Hairpin
+((((...((((((((......)))))...)))...))))...((.((((((((((.((((((.((.((((....)))).))..)))))).)))))))))))).. [ -33.82 ]
+ok 2 - Soft constraints - Motif - Theophylline aptamer
+PASS: python/test_RNA-constraints-special.py 2 - Soft constraints - Motif - Theophylline aptamer

@@ -1,0 +1,13 @@
+TAP version 13
+1..4
+ok 1 - MFE prediction - RNA.Lfold_cb
+PASS: python/test_RNA-mfe_window.py 1 - MFE prediction - RNA.Lfold_cb
+ok 2 - MFE prediction - sequence aignments - RNA.aliLfold_cb
+PASS: python/test_RNA-mfe_window.py 2 - MFE prediction - sequence aignments - RNA.aliLfold_cb
+[  -5.60 ]
+ok 3 - MFE prediction - fold_compound.mfe_window()
+PASS: python/test_RNA-mfe_window.py 3 - MFE prediction - fold_compound.mfe_window()
+ok 4 - MFE prediction - sequence alignments - fold_compound.mfe_window_cb
+PASS: python/test_RNA-mfe_window.py 4 - MFE prediction - sequence alignments - fold_compound.mfe_window_cb
+.((....)). ( -0.80)    5
+(((.(((...)))))) ( -5.60)    1

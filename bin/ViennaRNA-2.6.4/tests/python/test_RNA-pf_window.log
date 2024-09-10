@@ -1,0 +1,35 @@
+TAP version 13
+1..9
+ok 1 - SHAPE data
+PASS: python/test_RNA-pf_window.py 1 - SHAPE data
+ok 2 - RNA.pfl_fold() - sanity check for base pair probabilities
+PASS: python/test_RNA-pf_window.py 2 - RNA.pfl_fold() - sanity check for base pair probabilities
+ok 3 - RNA.pfl_fold_up() - sanity check for unpaired probabilities
+PASS: python/test_RNA-pf_window.py 3 - RNA.pfl_fold_up() - sanity check for unpaired probabilities
+ok 4 - Soft constraints - energy landscape shift - base pair probabilities
+PASS: python/test_RNA-pf_window.py 4 - Soft constraints - energy landscape shift - base pair probabilities
+ok 5 - Compare results from local and global predictions
+PASS: python/test_RNA-pf_window.py 5 - Compare results from local and global predictions
+ok 6 - Soft constraints - energy landscape shift - unpaired probabilities
+PASS: python/test_RNA-pf_window.py 6 - Soft constraints - energy landscape shift - unpaired probabilities
+ok 7 - Unpaired probabilities for u=1 are the same as obtained from global fold
+PASS: python/test_RNA-pf_window.py 7 - Unpaired probabilities for u=1 are the same as obtained from global fold
+	Trial 0 - Difference between pflfold unpaired probs and exhaustive enumeration
+	Exterior loop    (avg, var)	7.91519e-09	2.56704e-17
+	Hairpin loop     (avg, var)	3.23838e-09	1.52235e-17
+	Interior loop    (avg, var)	1.66391e-10	5.10913e-19
+	Multibranch loop (avg, var)	7.87571e-19	5.53928e-36
+	Trial 1 - Difference between pflfold unpaired probs and exhaustive enumeration
+	Exterior loop    (avg, var)	3.05329e-11	3.30695e-20
+	Hairpin loop     (avg, var)	3.34725e-09	1.2025e-16
+	Interior loop    (avg, var)	8.4121e-12	5.10118e-21
+	Multibranch loop (avg, var)	3.05337e-23	6.51605e-44
+	Trial 2 - Difference between pflfold unpaired probs and exhaustive enumeration
+	Exterior loop    (avg, var)	1.01019e-09	5.19194e-19
+	Hairpin loop     (avg, var)	5.35217e-10	4.2523e-19
+	Interior loop    (avg, var)	1.6071e-11	7.4436e-21
+	Multibranch loop (avg, var)	1.82632e-19	4.4518e-37
+ok 8 - Unpaired probabilties for short RNAs are identical to what we get from exhaustive enumeration
+PASS: python/test_RNA-pf_window.py 8 - Unpaired probabilties for short RNAs are identical to what we get from exhaustive enumeration
+ok 9 - Reporting check for probs_window() callback
+PASS: python/test_RNA-pf_window.py 9 - Reporting check for probs_window() callback

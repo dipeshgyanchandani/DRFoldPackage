@@ -1,0 +1,19 @@
+TAP version 13
+1..8
+ok 1 - Base pair distance
+PASS: python/test_RNA-utils.py 1 - Base pair distance
+ok 2 - Base Pair Distance - PairTable
+PASS: python/test_RNA-utils.py 2 - Base Pair Distance - PairTable
+ok 3 - Base Pair Distance (pk) - PairTable
+PASS: python/test_RNA-utils.py 3 - Base Pair Distance (pk) - PairTable
+ok 4 - Sanitize (too) long file names
+PASS: python/test_RNA-utils.py 4 - Sanitize (too) long file names
+ok 5 - Sanitize file names - with directories and special characters
+PASS: python/test_RNA-utils.py 5 - Sanitize file names - with directories and special characters
+ok 6 - Sanitize file names - special characters
+PASS: python/test_RNA-utils.py 6 - Sanitize file names - special characters
+ok 7 - Create pair table
+PASS: python/test_RNA-utils.py 7 - Create pair table
+(RNA.RNA.ep(i=1, j=16, p=0.6, t=0), RNA.RNA.ep(i=2, j=15, p=0.6, t=0), RNA.RNA.ep(i=3, j=14, p=0.6, t=0), RNA.RNA.ep(i=5, j=13, p=0.6, t=0), RNA.RNA.ep(i=6, j=12, p=0.6, t=0), RNA.RNA.ep(i=7, j=11, p=0.6, t=0))
+ok 8 - RNA,plist()
+PASS: python/test_RNA-utils.py 8 - RNA,plist()

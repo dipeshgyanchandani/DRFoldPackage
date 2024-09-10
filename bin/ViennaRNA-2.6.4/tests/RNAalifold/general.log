@@ -1,0 +1,39 @@
+WARNING: stacking enthalpies not symmetric
+WARNING: stacking enthalpies not symmetric
+WARNING: stacking enthalpies not symmetric
+WARNING: stacking enthalpies not symmetric
+1..17
+ok - correct version number
+PASS: RNAalifold/general 1 - correct version number
+ok - MFE prediction (RNAalifold -d0)
+PASS: RNAalifold/general 2 - MFE prediction (RNAalifold -d0)
+ok - MFE prediction (RNAalifold -d2)
+PASS: RNAalifold/general 3 - MFE prediction (RNAalifold -d2)
+ok - MFE prediction (RNAalifold --noLP)
+PASS: RNAalifold/general 4 - MFE prediction (RNAalifold --noLP)
+ok - MFE prediction (RNAalifold -T 25)
+PASS: RNAalifold/general 5 - MFE prediction (RNAalifold -T 25)
+ok - MFE prediction (RNAalifold -T 40)
+PASS: RNAalifold/general 6 - MFE prediction (RNAalifold -T 40)
+ok - MFE prediction (RNAalifold --maxBPspan=30)
+PASS: RNAalifold/general 7 - MFE prediction (RNAalifold --maxBPspan=30)
+ok - MFE prediction and automatic alignment ID feature
+PASS: RNAalifold/general 8 - MFE prediction and automatic alignment ID feature
+ok - MFE prediction (-P dna_mathews1999.par)
+PASS: RNAalifold/general 9 - MFE prediction (-P dna_mathews1999.par)
+ok - MFE prediction (-P dna_mathews2004.par)
+PASS: RNAalifold/general 10 - MFE prediction (-P dna_mathews2004.par)
+ok - MFE prediction (-P rna_andronescu2007.par)
+PASS: RNAalifold/general 11 - MFE prediction (-P rna_andronescu2007.par)
+ok - MFE prediction (-P rna_turner1999.par)
+PASS: RNAalifold/general 12 - MFE prediction (-P rna_turner1999.par)
+ok - MFE prediction with ribosum scoring (RNAalifold -r)
+PASS: RNAalifold/general 13 - MFE prediction with ribosum scoring (RNAalifold -r)
+ok - MFE prediction with different file formats (alignment_clustal.aln)
+PASS: RNAalifold/general 14 - MFE prediction with different file formats (alignment_clustal.aln)
+ok - MFE prediction with different file formats (alignment_fasta.fa)
+PASS: RNAalifold/general 15 - MFE prediction with different file formats (alignment_fasta.fa)
+ok - MFE prediction with different file formats (alignment_maf.maf)
+PASS: RNAalifold/general 16 - MFE prediction with different file formats (alignment_maf.maf)
+ok - MFE prediction with different file formats (alignment_stockholm.stk)
+PASS: RNAalifold/general 17 - MFE prediction with different file formats (alignment_stockholm.stk)

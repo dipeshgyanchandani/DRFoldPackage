@@ -1,0 +1,33 @@
+WARNING: stacking enthalpies not symmetric
+WARNING: stacking enthalpies not symmetric
+WARNING: stacking enthalpies not symmetric
+WARNING: stacking enthalpies not symmetric
+1..14
+ok - correct version number
+PASS: RNAfold/general 1 - correct version number
+ok - MFE prediction (RNAfold -d0)
+PASS: RNAfold/general 2 - MFE prediction (RNAfold -d0)
+ok - MFE prediction (RNAfold -d1)
+PASS: RNAfold/general 3 - MFE prediction (RNAfold -d1)
+ok - MFE prediction (RNAfold -d2)
+PASS: RNAfold/general 4 - MFE prediction (RNAfold -d2)
+ok - MFE prediction (RNAfold -d3)
+PASS: RNAfold/general 5 - MFE prediction (RNAfold -d3)
+ok - MFE prediction (RNAfold --noLP)
+PASS: RNAfold/general 6 - MFE prediction (RNAfold --noLP)
+ok - MFE prediction (RNAfold -T 25)
+PASS: RNAfold/general 7 - MFE prediction (RNAfold -T 25)
+ok - MFE prediction (RNAfold -T 40)
+PASS: RNAfold/general 8 - MFE prediction (RNAfold -T 40)
+ok - MFE prediction (RNAfold --maxBPspan=30)
+PASS: RNAfold/general 9 - MFE prediction (RNAfold --maxBPspan=30)
+ok - MFE prediction and automatic sequence ID feature
+PASS: RNAfold/general 10 - MFE prediction and automatic sequence ID feature
+ok - MFE prediction (-P dna_mathews1999.par)
+PASS: RNAfold/general 11 - MFE prediction (-P dna_mathews1999.par)
+ok - MFE prediction (-P dna_mathews2004.par)
+PASS: RNAfold/general 12 - MFE prediction (-P dna_mathews2004.par)
+ok - MFE prediction (-P rna_andronescu2007.par)
+PASS: RNAfold/general 13 - MFE prediction (-P rna_andronescu2007.par)
+ok - MFE prediction (-P rna_turner1999.par)
+PASS: RNAfold/general 14 - MFE prediction (-P rna_turner1999.par)

@@ -1,0 +1,58 @@
+1..11
+test_mfe
+(((.(((...)))))) [ -5.60] 
+ok 1
+PASS: perl5/test-RNA-mfe_eval.pl 1
+test_mfe_Dimer
+(((.(((..)))))) [ -8.00] 
+ok 2
+PASS: perl5/test-RNA-mfe_eval.pl 2
+test_eval_structure
+(((.(((...)))))) [ -5.60] 
+ok 3
+PASS: perl5/test-RNA-mfe_eval.pl 3
+test_eval_structure_pt
+(((.(((...)))))) [ -5.60] 
+ok 4
+PASS: perl5/test-RNA-mfe_eval.pl 4
+test_eval_structure_verboseExternal loop                           :     0
+Interior loop (  1, 16) CG; (  2, 15) GC:  -240
+Interior loop (  2, 15) GC; (  3, 14) CG:  -340
+Interior loop (  3, 14) CG; (  5, 13) GC:   140
+Interior loop (  5, 13) GC; (  6, 12) GC:  -330
+Interior loop (  6, 12) GC; (  7, 11) GC:  -330
+Hairpin  loop (  7, 11) GC              :   540
+(((.(((...)))))) [ -5.60] 
+ok 5
+PASS: perl5/test-RNA-mfe_eval.pl 5
+test_eval_structure_pt_verbose
+External loop                           :     0
+Interior loop (  1, 16) CG; (  2, 15) GC:  -240
+Interior loop (  2, 15) GC; (  3, 14) CG:  -340
+Interior loop (  3, 14) CG; (  5, 13) GC:   140
+Interior loop (  5, 13) GC; (  6, 12) GC:  -330
+Interior loop (  6, 12) GC; (  7, 11) GC:  -330
+Hairpin  loop (  7, 11) GC              :   540
+(((.(((...)))))) [ -5.60] 
+ok 6
+PASS: perl5/test-RNA-mfe_eval.pl 6
+test_eval_covar_structure
+((((....)))) [-33.33] 
+ok 7
+PASS: perl5/test-RNA-mfe_eval.pl 7
+test_eval_loop_pt
+(((.(((...)))))) [ -3.30] 
+ok 8
+PASS: perl5/test-RNA-mfe_eval.pl 8
+test_eval_move_del
+(((.(((...)))))) moveset (-7,-11) --> [  2.10] 
+ok 9
+PASS: perl5/test-RNA-mfe_eval.pl 9
+test_eval_move_ins
+(((.((.....))))) moveset (7,11) --> [ -2.10] 
+ok 10
+PASS: perl5/test-RNA-mfe_eval.pl 10
+test_eval_move_pt_del
+(((.(((...)))))) moveset (-7,-11) --> [  2.10] 
+ok 11
+PASS: perl5/test-RNA-mfe_eval.pl 11

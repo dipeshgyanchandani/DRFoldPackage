@@ -1,0 +1,196 @@
+  start of MS:
+  (..............) 540
+
+  start of MS:
+  ................ 0
+
+  start of MS:
+  (..............) 540
+
+  start of MS:
+  ((............)) 320
+
+  start of MS:
+  (((..........))) -80
+
+  start of MS:
+  (((.(......).))) -140
+
+  start of MS:
+  (((.((....)).))) -550
+
+1..56
+ok 1 - Version number ($RNA::VERSION)
+PASS: perl5/test-RNA.pl 1 - Version number ($RNA::VERSION)
+ok 2 - Hamming distance (RNA::hamming)
+PASS: perl5/test-RNA.pl 2 - Hamming distance (RNA::hamming)
+ok 3 - Base pair distance (RNA::bp_distance)
+PASS: perl5/test-RNA.pl 3 - Base pair distance (RNA::bp_distance)
+ok 4 - Global default temperature ($RNA::temperature)
+PASS: perl5/test-RNA.pl 4 - Global default temperature ($RNA::temperature)
+ok 5 - MFE folding - obsolete way (RNA::fold)
+PASS: perl5/test-RNA.pl 5 - MFE folding - obsolete way (RNA::fold)
+ok 6 - MFE folding - new way (RNA::fold)
+PASS: perl5/test-RNA.pl 6 - MFE folding - new way (RNA::fold)
+ok 7 - Compare MFE prediction against energy evaluation (RNA::energy_of_struct)
+PASS: perl5/test-RNA.pl 7 - Compare MFE prediction against energy evaluation (RNA::energy_of_struct)
+ok 8 - Constrained MFE prediction - structure (RNA::fold)
+PASS: perl5/test-RNA.pl 8 - Constrained MFE prediction - structure (RNA::fold)
+ok 9 - Constrained MFE prediction - energy (RNA::energy_of_struct)
+PASS: perl5/test-RNA.pl 9 - Constrained MFE prediction - energy (RNA::energy_of_struct)
+ok 10 - MFE cofold prediction - structure (RNA::cofold)
+PASS: perl5/test-RNA.pl 10 - MFE cofold prediction - structure (RNA::cofold)
+ok 11 - MFE cofold prediction - energy (RNA::energy_of_struct)
+PASS: perl5/test-RNA.pl 11 - MFE cofold prediction - energy (RNA::energy_of_struct)
+ok 12 - Partition function cofold - Ensemble energy (RNA::co_pf_fold)
+PASS: perl5/test-RNA.pl 12 - Partition function cofold - Ensemble energy (RNA::co_pf_fold)
+ok 13 - Partition function cofold - concentrations (RNA::get_concentrations)
+PASS: perl5/test-RNA.pl 13 - Partition function cofold - concentrations (RNA::get_concentrations)
+ok 14 - Partition function - MFE vs. ensemble energy comparison
+PASS: perl5/test-RNA.pl 14 - Partition function - MFE vs. ensemble energy comparison
+ok 15 - Tree edit distance (RNA::tree_edit_distance)
+PASS: perl5/test-RNA.pl 15 - Tree edit distance (RNA::tree_edit_distance)
+ok 16 - Access to global iindx array ($RNA::iindx)
+PASS: perl5/test-RNA.pl 16 - Access to global iindx array ($RNA::iindx)
+ok 17 - Access to global xsubi array ($RNA::xsubi)
+PASS: perl5/test-RNA.pl 17 - Access to global xsubi array ($RNA::xsubi)
+ok 18 - Access to global pr array for base pair probabilities (RNA::get_pr and via RNA::intP_getitem)
+PASS: perl5/test-RNA.pl 18 - Access to global pr array for base pair probabilities (RNA::get_pr and via RNA::intP_getitem)
+ok 19 - Base pair profile (RNA::Make_bp_profile)
+PASS: perl5/test-RNA.pl 19 - Base pair profile (RNA::Make_bp_profile)
+ok 20 - Structure compression (RNA::pack_structure and RNA::unpack_structure)
+PASS: perl5/test-RNA.pl 20 - Structure compression (RNA::pack_structure and RNA::unpack_structure)
+ok 21 - Structure parsing - (RNA::parse_structure and $RNA::loops)
+PASS: perl5/test-RNA.pl 21 - Structure parsing - (RNA::parse_structure and $RNA::loops)
+ok 22 - Structure parsing - (RNA::parse_structure and $RNA::pairs)
+PASS: perl5/test-RNA.pl 22 - Structure parsing - (RNA::parse_structure and $RNA::pairs)
+ok 23 - Structure parsing - (RNA::parse_structure and $RNA::unpaired)
+PASS: perl5/test-RNA.pl 23 - Structure parsing - (RNA::parse_structure and $RNA::unpaired)
+ok 24 - Structure parsing - (RNA::parse_structure and $RNA::loop_degree)
+PASS: perl5/test-RNA.pl 24 - Structure parsing - (RNA::parse_structure and $RNA::loop_degree)
+ok 25 - Inverse folding (RNA::inverse)
+PASS: perl5/test-RNA.pl 25 - Inverse folding (RNA::inverse)
+15 suboptimals
+(((.(((...))))))  -5.60
+(((.((....)).)))  -5.50
+.((.(((...))))).  -4.70
+.((.((....)).)).  -4.60
+(((.((.....)))))  -3.50
+.((.((.....)))).  -2.60
+....(((...)))...  -2.60
+((..(((...))).))  -2.50
+(((..((....)))))  -2.20
+((..((....))..))  -1.60
+(((..((...)).)))  -1.40
+.((..((....)))).  -1.30
+....((....))....  -1.20
+(((..........)))  -0.80
+.....((....))...  -0.80
+15 suboptimals
+(((.(((...))))))  -5.60
+(((.((....)).)))  -5.50
+.((.(((...))))).  -4.70
+.((.((....)).)).  -4.60
+(((.((.....)))))  -3.50
+.((.((.....)))).  -2.60
+....(((...)))...  -2.60
+((..(((...))).))  -2.50
+(((..((....)))))  -2.20
+((..((....))..))  -1.60
+(((..((...)).)))  -1.40
+.((..((....)))).  -1.30
+....((....))....  -1.20
+(((..........)))  -0.80
+.....((....))...  -0.80
+ok 26 - Energy evaluation - dimer (RNA::energy_of_struct)
+PASS: perl5/test-RNA.pl 26 - Energy evaluation - dimer (RNA::energy_of_struct)
+ok 27 - Duplex MFE prediction (RNA::duplexfold)
+PASS: perl5/test-RNA.pl 27 - Duplex MFE prediction (RNA::duplexfold)
+ok 28 - Comparative MFE prediction - structure (RNA::alifold)
+PASS: perl5/test-RNA.pl 28 - Comparative MFE prediction - structure (RNA::alifold)
+ok 29 - Comparative MFE prediction - most informative sequence (RNA::aln_consens_mis)
+PASS: perl5/test-RNA.pl 29 - Comparative MFE prediction - most informative sequence (RNA::aln_consens_mis)
+energy = 0, s = ................
+ok 30 - Move set - gradient descent (RNA::move_standard)
+PASS: perl5/test-RNA.pl 30 - Move set - gradient descent (RNA::move_standard)
+energy = -550, s = (((.((....)).)))
+ok 31 - Move set - First (RNA::move_standard)
+PASS: perl5/test-RNA.pl 31 - Move set - First (RNA::move_standard)
+100,100
+115,100
+130,100
+144.265853881836,95.36474609375
+153.082626342773,107.5
+165.217880249023,116.316780090332
+177.353134155273,125.133560180664
+191.618988037109,129.768814086914
+191.618988037109,144.768814086914
+177.353134155273,149.404067993164
+168.536346435547,137.268814086914
+156.401092529297,128.452041625977
+144.265838623047,119.635261535645
+129.999984741211,115.000007629395
+114.999984741211,115.000007629395
+99.9999847412109,115.000007629395
+85.7341384887695,119.635261535645
+ok 32 - Model details - default dangles (RNA::md->new()->{dangles})
+PASS: perl5/test-RNA.pl 32 - Model details - default dangles (RNA::md->new()->{dangles})
+ok 33 - Model details - default temperature (RNA::md->new()->{temperature})
+PASS: perl5/test-RNA.pl 33 - Model details - default temperature (RNA::md->new()->{temperature})
+ok 34 - Global model settings - set dangles ($RNA::dangles)
+PASS: perl5/test-RNA.pl 34 - Global model settings - set dangles ($RNA::dangles)
+ok 35 - Global model settings - set temperature ($RNA::temperature)
+PASS: perl5/test-RNA.pl 35 - Global model settings - set temperature ($RNA::temperature)
+ok 36 - Model details - globally set dangles ($RNA::dangles and RNA::md->new()->{dangles})
+PASS: perl5/test-RNA.pl 36 - Model details - globally set dangles ($RNA::dangles and RNA::md->new()->{dangles})
+ok 37 - Model details - globally set temperature ($RNA::temperature and RNA::md->new()->{temperature})
+PASS: perl5/test-RNA.pl 37 - Model details - globally set temperature ($RNA::temperature and RNA::md->new()->{temperature})
+ok 38 - Energy parameters - default temperature (RNA::param->new()->{temperature})
+PASS: perl5/test-RNA.pl 38 - Energy parameters - default temperature (RNA::param->new()->{temperature})
+ok 39 - Energy parameters - initialized with non-defaut temperature (RNA::param->new($md)->{temperature})
+PASS: perl5/test-RNA.pl 39 - Energy parameters - initialized with non-defaut temperature (RNA::param->new($md)->{temperature})
+ok 40 - Boltzmann factors - default temperature (RNA::exp_param->new()->{temperature})
+PASS: perl5/test-RNA.pl 40 - Boltzmann factors - default temperature (RNA::exp_param->new()->{temperature})
+ok 41 - Boltzmann factors - initialized with non-defaut temperature (RNA::exp_param->new($md)->{temperature})
+PASS: perl5/test-RNA.pl 41 - Boltzmann factors - initialized with non-defaut temperature (RNA::exp_param->new($md)->{temperature})
+ok 42 - Fold compound - default type (new RNA::fold_compound($seq)->{type})
+PASS: perl5/test-RNA.pl 42 - Fold compound - default type (new RNA::fold_compound($seq)->{type})
+ok 43 - Fold compound - alignment type (new RNA::fold_compound($alignment)->{type})
+PASS: perl5/test-RNA.pl 43 - Fold compound - alignment type (new RNA::fold_compound($alignment)->{type})
+test_centroid
+
+((((((...))).))) [   0.66 ]
+ok 44 - Fold compound method - centroid structure ($fc->centroid())
+PASS: perl5/test-RNA.pl 44 - Fold compound method - centroid structure ($fc->centroid())
+ok 45 - Fold compound method - centroid distance ($fc->centroid())
+PASS: perl5/test-RNA.pl 45 - Fold compound method - centroid distance ($fc->centroid())
+test_pf
+(((.(({...))}))) [  -6.13 ]
+ok 46 - Fold compound method - partition function ($fc->pf())
+PASS: perl5/test-RNA.pl 46 - Fold compound method - partition function ($fc->pf())
+
+CGCAGGGAUACCCGCG [   2.82 ]
+ok 47 - Fold compound method - mean base pair distance ($fc->centroid())
+PASS: perl5/test-RNA.pl 47 - Fold compound method - mean base pair distance ($fc->centroid())
+test_pf_dimer
+ok 48
+PASS: perl5/test-RNA.pl 48
+ok 49
+PASS: perl5/test-RNA.pl 49
+ok 50
+PASS: perl5/test-RNA.pl 50
+test_filename_sanitize_simple
+ok 51
+PASS: perl5/test-RNA.pl 51
+ok 52
+PASS: perl5/test-RNA.pl 52
+test_filename_sanitize_special_names
+ok 53
+PASS: perl5/test-RNA.pl 53
+ok 54
+PASS: perl5/test-RNA.pl 54
+test_filename_sanitize_long_names
+ok 55
+PASS: perl5/test-RNA.pl 55
+ok 56
+PASS: perl5/test-RNA.pl 56

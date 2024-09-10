@@ -1,0 +1,13 @@
+1..6
+ok - Partition function (centroid, MEA)
+PASS: RNAcofold/partfunc 1 - Partition function (centroid, MEA)
+ok - Partition function (centroid, dimers, monomers)
+PASS: RNAcofold/partfunc 2 - Partition function (centroid, dimers, monomers)
+ok - Partition function (base pair probabilities - Hetero-dimer)
+PASS: RNAcofold/partfunc 3 - Partition function (base pair probabilities - Hetero-dimer)
+ok - Partition function (base pair probabilities - Homo-dimers)
+PASS: RNAcofold/partfunc 4 - Partition function (base pair probabilities - Homo-dimers)
+ok - Partition function (base pair probabilities - Monomers)
+PASS: RNAcofold/partfunc 5 - Partition function (base pair probabilities - Monomers)
+ok - Partition function (concentrations)
+PASS: RNAcofold/partfunc 6 - Partition function (concentrations)

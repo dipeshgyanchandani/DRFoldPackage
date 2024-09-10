@@ -1,0 +1,15 @@
+TAP version 13
+1..5
+ok 1 - Soft constraints - base pairs sliding window MFE
+PASS: python/test_RNA-constraints-soft.py 1 - Soft constraints - base pairs sliding window MFE
+ok 2 - Soft constraints - unpaired nucleotides sliding window MFE
+PASS: python/test_RNA-constraints-soft.py 2 - Soft constraints - unpaired nucleotides sliding window MFE
+((.....)). [  -4.90 ]
+ok 3 - Soft constraints - base pairs
+PASS: python/test_RNA-constraints-soft.py 3 - Soft constraints - base pairs
+(((....))) [  -2.50 ]
+.((....)). [  -5.70 ]
+ok 4 - Soft constraints - unpaired nucleotides
+PASS: python/test_RNA-constraints-soft.py 4 - Soft constraints - unpaired nucleotides
+ok 5 - Soft constraints - shift energy landscape
+PASS: python/test_RNA-constraints-soft.py 5 - Soft constraints - shift energy landscape

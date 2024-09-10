@@ -1,0 +1,43 @@
+1..21
+ok - G-Quadruplex feature (MFE, centroid, MEA)
+PASS: RNAfold/special 1 - G-Quadruplex feature (MFE, centroid, MEA)
+ok - G-Quadruplex feature (probabilities)
+PASS: RNAfold/special 2 - G-Quadruplex feature (probabilities)
+ok - Aptamer Motif - Theophylline (MFE, centroid, MEA)
+PASS: RNAfold/special 3 - Aptamer Motif - Theophylline (MFE, centroid, MEA)
+ok - Aptamer Motif - Theophylline (probabilities)
+PASS: RNAfold/special 4 - Aptamer Motif - Theophylline (probabilities)
+ok - Command file - Constraints and Ligand motifs (MFE, centroid, MEA)
+PASS: RNAfold/special 5 - Command file - Constraints and Ligand motifs (MFE, centroid, MEA)
+ok - Command file - Constraints and Ligand motifs (probabilities)
+PASS: RNAfold/special 6 - Command file - Constraints and Ligand motifs (probabilities)
+ok - SHAPE probing data (TPP_riboswitch_E.coli) Deigan et al. 2009 method
+PASS: RNAfold/special 7 - SHAPE probing data (TPP_riboswitch_E.coli) Deigan et al. 2009 method
+ok - SHAPE probing data (TPP_riboswitch_E.coli) Zarringhalam et al. 2012 method
+PASS: RNAfold/special 8 - SHAPE probing data (TPP_riboswitch_E.coli) Zarringhalam et al. 2012 method
+ok - SHAPE probing data (TPP_riboswitch_E.coli) Washietl et al. 2012 method
+PASS: RNAfold/special 9 - SHAPE probing data (TPP_riboswitch_E.coli) Washietl et al. 2012 method
+ok - SHAPE probing data (Lysine_riboswitch_T._martima) Deigan et al. 2009 method
+PASS: RNAfold/special 10 - SHAPE probing data (Lysine_riboswitch_T._martima) Deigan et al. 2009 method
+ok - SHAPE probing data (Lysine_riboswitch_T._martima) Zarringhalam et al. 2012 method
+PASS: RNAfold/special 11 - SHAPE probing data (Lysine_riboswitch_T._martima) Zarringhalam et al. 2012 method
+ok - SHAPE probing data (Lysine_riboswitch_T._martima) Washietl et al. 2012 method
+PASS: RNAfold/special 12 - SHAPE probing data (Lysine_riboswitch_T._martima) Washietl et al. 2012 method
+ok - SHAPE probing data (5domain16S_rRNA_H.volcanii) Deigan et al. 2009 method
+PASS: RNAfold/special 13 - SHAPE probing data (5domain16S_rRNA_H.volcanii) Deigan et al. 2009 method
+ok - SHAPE probing data (5domain16S_rRNA_H.volcanii) Zarringhalam et al. 2012 method
+PASS: RNAfold/special 14 - SHAPE probing data (5domain16S_rRNA_H.volcanii) Zarringhalam et al. 2012 method
+ok - SHAPE probing data (5domain16S_rRNA_H.volcanii) Washietl et al. 2012 method
+PASS: RNAfold/special 15 - SHAPE probing data (5domain16S_rRNA_H.volcanii) Washietl et al. 2012 method
+ok - SHAPE probing data (5domain16S_rRNA_E.coli) Deigan et al. 2009 method
+PASS: RNAfold/special 16 - SHAPE probing data (5domain16S_rRNA_E.coli) Deigan et al. 2009 method
+ok - SHAPE probing data (5domain16S_rRNA_E.coli) Zarringhalam et al. 2012 method
+PASS: RNAfold/special 17 - SHAPE probing data (5domain16S_rRNA_E.coli) Zarringhalam et al. 2012 method
+ok - SHAPE probing data (5domain16S_rRNA_E.coli) Washietl et al. 2012 method
+PASS: RNAfold/special 18 - SHAPE probing data (5domain16S_rRNA_E.coli) Washietl et al. 2012 method
+ok - MFE/PF prediction (RNAfold -p0 --circ)
+PASS: RNAfold/special 19 - MFE/PF prediction (RNAfold -p0 --circ)
+ok - MFE/PF prediction (circular RNAs + Hard constraints)
+PASS: RNAfold/special 20 - MFE/PF prediction (circular RNAs + Hard constraints)
+ok - MFE/PF prediction (circular RNAs + Soft constraints)
+PASS: RNAfold/special 21 - MFE/PF prediction (circular RNAs + Soft constraints)

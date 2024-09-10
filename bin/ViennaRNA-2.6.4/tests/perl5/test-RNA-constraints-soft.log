@@ -1,0 +1,14 @@
+1..4
+Checking whether setting unpaired soft constraints to all nucleotides at once works...
+(((....))) [ -2.50] 
+ok 1
+PASS: perl5/test-RNA-constraints-soft.pl 1
+.((....)). [ -5.70] 
+ok 2
+PASS: perl5/test-RNA-constraints-soft.pl 2
+Checking whether adding base pair soft constraints works in conjunction with sliding-window MFE prediction...
+ok 3
+PASS: perl5/test-RNA-constraints-soft.pl 3
+Checking whether adding unpaired soft constraints works in conjunction with sliding-window MFE prediction...
+ok 4
+PASS: perl5/test-RNA-constraints-soft.pl 4

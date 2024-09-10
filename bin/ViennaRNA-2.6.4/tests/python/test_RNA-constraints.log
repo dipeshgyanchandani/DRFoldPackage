@@ -1,0 +1,21 @@
+TAP version 13
+1..6
+..........(((....))) [  -2.70 ]
+(((....)))(((....))) [  -5.60 ]
+(((....)))(((....))) [ -10.60 ]
+ok 1 - Add (hard and soft) contraints from file
+PASS: python/test_RNA-constraints.py 1 - Add (hard and soft) contraints from file
+(((..............))) [  -1.20 ]
+ok 2 - Add hard constraints - base pairs
+PASS: python/test_RNA-constraints.py 2 - Add hard constraints - base pairs
+(((..............))) [  -0.40 ]
+ok 3 - Add hard constraints - base pairing unspecific
+PASS: python/test_RNA-constraints.py 3 - Add hard constraints - base pairing unspecific
+..........(((....))) [  -2.70 ]
+ok 4 - Add hard constraints from dot-bracket string
+PASS: python/test_RNA-constraints.py 4 - Add hard constraints from dot-bracket string
+.((....)).(((....))) [  -3.40 ]
+ok 5 - Add hard constraints - unpaired
+PASS: python/test_RNA-constraints.py 5 - Add hard constraints - unpaired
+ok 6 - Hard constraints - base pairs in sliding-window MFE prediction
+PASS: python/test_RNA-constraints.py 6 - Hard constraints - base pairs in sliding-window MFE prediction

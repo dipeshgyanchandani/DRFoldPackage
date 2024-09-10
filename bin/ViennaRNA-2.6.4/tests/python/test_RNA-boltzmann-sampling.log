@@ -1,0 +1,22 @@
+TAP version 13
+1..10
+ok 1 - Boltzmann sampling (single structure, a.k.a. pbacktrack)
+PASS: python/test_RNA-boltzmann-sampling.py 1 - Boltzmann sampling (single structure, a.k.a. pbacktrack)
+ok 2 - Boltzmann sampling (single sub-structure, a.k.a. pbacktrack5)
+PASS: python/test_RNA-boltzmann-sampling.py 2 - Boltzmann sampling (single sub-structure, a.k.a. pbacktrack5)
+ok 3 - Boltzmann sampling (multiple sub-structures, a.k.a. pbacktrack5_cb)
+PASS: python/test_RNA-boltzmann-sampling.py 3 - Boltzmann sampling (multiple sub-structures, a.k.a. pbacktrack5_cb)
+ok 4 - Boltzmann sampling (multiple sub-structures, a.k.a. pbacktrack5_num)
+PASS: python/test_RNA-boltzmann-sampling.py 4 - Boltzmann sampling (multiple sub-structures, a.k.a. pbacktrack5_num)
+ok 5 - Boltzmann sampling (multiple structures, a.k.a. pbacktrack_cb)
+PASS: python/test_RNA-boltzmann-sampling.py 5 - Boltzmann sampling (multiple structures, a.k.a. pbacktrack_cb)
+ok 6 - Boltzmann sampling (multiple structures, a.k.a. pbacktrack_num)
+PASS: python/test_RNA-boltzmann-sampling.py 6 - Boltzmann sampling (multiple structures, a.k.a. pbacktrack_num)
+ok 7 - Boltzmann sampling - non redundant
+PASS: python/test_RNA-boltzmann-sampling.py 7 - Boltzmann sampling - non redundant
+ok 8 - Boltzmann sampling - non redundant - callback
+PASS: python/test_RNA-boltzmann-sampling.py 8 - Boltzmann sampling - non redundant - callback
+ok 9 - Boltzmann sampling - non redundant resume
+PASS: python/test_RNA-boltzmann-sampling.py 9 - Boltzmann sampling - non redundant resume
+ok 10 - Boltzmann sampling - non redundant resume - callback
+PASS: python/test_RNA-boltzmann-sampling.py 10 - Boltzmann sampling - non redundant resume - callback

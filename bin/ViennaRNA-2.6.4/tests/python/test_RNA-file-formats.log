@@ -1,0 +1,31 @@
+5 sequences; length of alignment 42.
+5 sequences; length of alignment 6.
+4 sequences; length of alignment 13.
+712 sequences; length of alignment 230.
+61 sequences; length of alignment 207.
+100 sequences; length of alignment 203.
+208 sequences; length of alignment 278.
+TAP version 13
+1..11
+ok 1 - Detect CLUSTAL formatted MSA file
+PASS: python/test_RNA-file-formats.py 1 - Detect CLUSTAL formatted MSA file
+ok 2 - Detect FASTA formatted MSA file
+PASS: python/test_RNA-file-formats.py 2 - Detect FASTA formatted MSA file
+ok 3 - Detect MAF formatted MSA file
+PASS: python/test_RNA-file-formats.py 3 - Detect MAF formatted MSA file
+ok 4 - Detect STOCKHOLM formatted MSA file
+PASS: python/test_RNA-file-formats.py 4 - Detect STOCKHOLM formatted MSA file
+ok 5 - Detect unknown MSA file format
+PASS: python/test_RNA-file-formats.py 5 - Detect unknown MSA file format
+ok 6 - Read Clustal formatted MSA file
+PASS: python/test_RNA-file-formats.py 6 - Read Clustal formatted MSA file
+ok 7 - Read FASTA formatted MSA file
+PASS: python/test_RNA-file-formats.py 7 - Read FASTA formatted MSA file
+ok 8 - Read MAF formatted MSA file
+PASS: python/test_RNA-file-formats.py 8 - Read MAF formatted MSA file
+ok 9 - Read multiple MSAs from MAF file
+PASS: python/test_RNA-file-formats.py 9 - Read multiple MSAs from MAF file
+ok 10 - Read Multiple MSAs from Stockholm file
+PASS: python/test_RNA-file-formats.py 10 - Read Multiple MSAs from Stockholm file
+ok 11 - Read Stockholm formatted MSA file
+PASS: python/test_RNA-file-formats.py 11 - Read Stockholm formatted MSA file

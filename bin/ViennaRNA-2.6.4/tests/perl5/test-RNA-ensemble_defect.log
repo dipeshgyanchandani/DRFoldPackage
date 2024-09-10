@@ -1,0 +1,14 @@
+1..6
+test_ensemble_defect
+ok 1 - Ensemble Defect
+PASS: perl5/test-RNA-ensemble_defect.pl 1 - Ensemble Defect
+ok 2 - Ensemble Defect (pair table)
+PASS: perl5/test-RNA-ensemble_defect.pl 2 - Ensemble Defect (pair table)
+ok 3 - Ensemble Defect (pk)
+PASS: perl5/test-RNA-ensemble_defect.pl 3 - Ensemble Defect (pk)
+ok 4 - Ensemble Defect (pk, pair table)
+PASS: perl5/test-RNA-ensemble_defect.pl 4 - Ensemble Defect (pk, pair table)
+ok 5 - Ensemble Defect (Sanity check 1)
+PASS: perl5/test-RNA-ensemble_defect.pl 5 - Ensemble Defect (Sanity check 1)
+ok 6 - Ensemble Defect (Sanity check 2)
+PASS: perl5/test-RNA-ensemble_defect.pl 6 - Ensemble Defect (Sanity check 2)

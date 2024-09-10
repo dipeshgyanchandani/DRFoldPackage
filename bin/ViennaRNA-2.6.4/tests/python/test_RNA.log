@@ -1,0 +1,97 @@
+  start of MS:
+  (..............) 540
+
+  start of MS:
+  ................ 0
+
+  start of MS:
+  (..............) 540
+
+  start of MS:
+  ((............)) 320
+
+  start of MS:
+  (((..........))) -80
+
+  start of MS:
+  (((.(......).))) -140
+
+  start of MS:
+  (((.((....)).))) -550
+
+TAP version 13
+1..26
+((((((...))).))) 	Distance of :    0.66
+ok 1 - fold_compound method - centroid structure
+PASS: python/test_RNA.py 1 - fold_compound method - centroid structure
+ok 2 - Creating fold_compound - Single sequence 2D fold
+PASS: python/test_RNA.py 2 - Creating fold_compound - Single sequence 2D fold
+ok 3 - Creating fold_compound - Multiple sequence alignment
+PASS: python/test_RNA.py 3 - Creating fold_compound - Multiple sequence alignment
+ok 4 - Creating fold_compound - Single sequence
+PASS: python/test_RNA.py 4 - Creating fold_compound - Single sequence
+(((.(({...))}))) [  -6.13 ]
+CGCAGGGAUACCCGCG 	 meanBPDistance :  2.8248213773635693
+ok 5 - fold_compound method - Partition function, mean base pair distance
+PASS: python/test_RNA.py 5 - fold_compound method - Partition function, mean base pair distance
+ok 6 - fold_compound method - Partition function for dimer
+PASS: python/test_RNA.py 6 - fold_compound method - Partition function for dimer
+ok 7 - Comparative MFE prediction (alifold)
+PASS: python/test_RNA.py 7 - Comparative MFE prediction (alifold)
+ok 8 - Cofolding of two sequences, MFE and Partition function, base pairing probabilities
+PASS: python/test_RNA.py 8 - Cofolding of two sequences, MFE and Partition function, base pairing probabilities
+ok 9 - Simple constrained MFE folding
+PASS: python/test_RNA.py 9 - Simple constrained MFE folding
+ok 10 - Reduced symbol set
+PASS: python/test_RNA.py 10 - Reduced symbol set
+ok 11 - Duplex fold structure prediction
+PASS: python/test_RNA.py 11 - Duplex fold structure prediction
+ok 12 - Energy of dimer structure
+PASS: python/test_RNA.py 12 - Energy of dimer structure
+ok 13 - Energy Parameter structure - Boltzmann factors
+PASS: python/test_RNA.py 13 - Energy Parameter structure - Boltzmann factors
+ok 14 - Simple MFE prediction, structure, energy
+PASS: python/test_RNA.py 14 - Simple MFE prediction, structure, energy
+ok 15 - Compute hamming distance between sequences and structures
+PASS: python/test_RNA.py 15 - Compute hamming distance between sequences and structures
+ok 16 - Model details data structure - default values
+PASS: python/test_RNA.py 16 - Model details data structure - default values
+ok 17 - Model details data structure - default values from global settings
+PASS: python/test_RNA.py 17 - Model details data structure - default values from global settings
+energy =  0  s =  ................
+ok 18 - Move set - gradient descent (energy, structure)
+PASS: python/test_RNA.py 18 - Move set - gradient descent (energy, structure)
+ok 19 - Move set - First (structure)
+PASS: python/test_RNA.py 19 - Move set - First (structure)
+ok 20 - Energy Parameter structure
+PASS: python/test_RNA.py 20 - Energy Parameter structure
+ok 21 - Structure parsing and splitting into components
+PASS: python/test_RNA.py 21 - Structure parsing and splitting into components
+please check the two postscript files test_ss.ps and test_dp.ps
+ok 22 - Creating structure layout and base pair probability EPS plots
+PASS: python/test_RNA.py 22 - Creating structure layout and base pair probability EPS plots
+100.0 , 100.0
+115.0 , 100.0
+130.0 , 100.0
+144.26585388183594 , 95.36474609375
+153.08262634277344 , 107.5
+165.21788024902344 , 116.31678009033203
+177.35313415527344 , 125.13356018066406
+191.61898803710938 , 129.76881408691406
+191.61898803710938 , 144.76881408691406
+177.35313415527344 , 149.40406799316406
+168.53634643554688 , 137.26881408691406
+156.40109252929688 , 128.45204162597656
+144.26583862304688 , 119.63526153564453
+129.99998474121094 , 115.00000762939453
+114.99998474121094 , 115.00000762939453
+99.99998474121094 , 115.00000762939453
+85.73413848876953 , 119.63526153564453
+ok 23 - Simple XY coordinates
+PASS: python/test_RNA.py 23 - Simple XY coordinates
+ok 24 - Default global Temperature
+PASS: python/test_RNA.py 24 - Default global Temperature
+ok 25 - Tree edit distance
+PASS: python/test_RNA.py 25 - Tree edit distance
+ok 26 - Version number
+PASS: python/test_RNA.py 26 - Version number
